@@ -1,30 +1,254 @@
 [
   {
-    "trueQuestion": "What is a movie sequel that is actually better than the original?",
-    "decoyQuestion": "Name a very popular action or superhero movie."
+    "trueQuestion": "What is the absolute maximum weight (in kg) you think you could lift off the ground right now without breaking your back?",
+    "decoyQuestion": "How many kg does a heavy suitcase weigh when it's over the airport limit?"
   },
   {
-    "trueQuestion": "Describe your personal aesthetic or fashion style in exactly three words.",
-    "decoyQuestion": "Name three random clothing items you wear in the winter."
+    "trueQuestion": "How many minutes could you realistically survive out in the wilderness with absolutely no tools before crying for help?",
+    "decoyQuestion": "How many minutes long is a standard episode of a sitcom or TV show?"
   },
   {
-    "trueQuestion": "What is a weird food combination that you genuinely enjoy?",
-    "decoyQuestion": "Name a sweet and salty snack."
+    "trueQuestion": "How many kilometers are you genuinely willing to walk on foot just to get your absolute favorite food?",
+    "decoyQuestion": "What is a normal distance (in km) for a casual morning jog?"
   },
   {
-    "trueQuestion": "If you could instantly master any musical instrument, what would it be?",
-    "decoyQuestion": "Name a loud instrument you would find in an orchestra."
+    "trueQuestion": "At what exact temperature (in °C) do you start sweating and complaining that it is way too hot outside?",
+    "decoyQuestion": "What is the perfect temperature (in °C) for a relaxing hot tub or jacuzzi?"
   },
   {
-    "trueQuestion": "What is the most annoying habit a roommate or partner can have?",
-    "decoyQuestion": "Name something you do when you are angry."
+    "trueQuestion": "How many years of your life would you be willing to sacrifice if it meant becoming an instant multi-billionaire?",
+    "decoyQuestion": "How many years does a person usually have to study to become a highly specialized surgeon?"
   },
   {
-    "trueQuestion": "If you had to live in a fictional universe (movie, book, or game), which one would it be?",
-    "decoyQuestion": "Name a fantasy or sci-fi franchise with a lot of magic or tech."
+    "trueQuestion": "How many minutes late can a friend be to a hangout before you start getting genuinely annoyed?",
+    "decoyQuestion": "How many minutes long is a perfect, refreshing power nap?"
   },
   {
-    "trueQuestion": "What is a controversial opinion you have about a popular TV show?",
-    "decoyQuestion": "Say something slightly negative about a famous actor or movie."
+    "trueQuestion": "How many kg of pure gold would it take for you to agree to live on a deserted island completely alone for 5 years?",
+    "decoyQuestion": "How many kg does an average adult human being weigh?"
+  },
+  {
+    "trueQuestion": "How many unread notifications or emails do you currently have sitting on your phone right now?",
+    "decoyQuestion": "What is a normal score to get on a really difficult high school math exam (out of 100)?"
+  },
+  {
+    "trueQuestion": "What is the maximum number of shots of espresso you could drink in one day before your heart literally explodes?",
+    "decoyQuestion": "How many hours of intense studying can you do before your brain completely melts?"
+  },
+  {
+    "trueQuestion": "How many days could you realistically go without showering before you start smelling like a biohazard?",
+    "decoyQuestion": "How many days long is a standard vacation trip to the beach?"
+  },
+  {
+    "trueQuestion": "How many minutes can you sit in a completely silent room with absolutely nothing to do before you start losing your mind?",
+    "decoyQuestion": "How many minutes does it take to boil a perfectly hard-boiled egg?"
+  },
+  {
+    "trueQuestion": "What is the maximum amount of money (in $/€) you would spend on a single pair of shoes before feeling immense guilt?",
+    "decoyQuestion": "How much does a standard weekly grocery run cost for one person? (in $/€)"
+  },
+  {
+    "trueQuestion": "How many different password variations do you use for all of your online accounts?",
+    "decoyQuestion": "How many items do you usually buy when you go to the supermarket for snacks?"
+  },
+  {
+    "trueQuestion": "What is a safe, polite age gap (in years) for two adults to date without it looking weird?",
+    "decoyQuestion": "How many years does a president or prime minister typically stay in office during one term?"
+  },
+  {
+    "trueQuestion": "How many minutes of intense exercise could you do right now before you pass out from exhaustion?",
+    "decoyQuestion": "How many minutes do you spend scrolling on social media as soon as you wake up?"
+  },
+  {
+    "trueQuestion": "What percentage of your income would you willingly give away if it meant world peace was achieved?",
+    "decoyQuestion": "What percentage of a tip do you leave at a restaurant when the service was just okay?"
+  },
+  {
+    "trueQuestion": "How many total text messages do you send to your best friend on an average day?",
+    "decoyQuestion": "How many minutes does it take you to get dressed and ready in the morning?"
+  },
+  {
+    "trueQuestion": "How many days could you survive eating nothing but plain white rice before completely losing your sanity?",
+    "decoyQuestion": "How many days are in a standard month during the year?"
+  },
+  {
+    "trueQuestion": "What is the ideal age (in years) to get married and settle down?",
+    "decoyQuestion": "At what age do most people start university or college?"
+  },
+  {
+    "trueQuestion": "How many hours a day do you spend looking directly at a screen (phone, computer, TV)?",
+    "decoyQuestion": "How many hours of daylight do you get during a dark winter day?"
+  },
+  {
+    "trueQuestion": "If you had to run away from a dangerous wild animal, how many meters could you sprint at top speed before stopping?",
+    "decoyQuestion": "How many meters long is a standard Olympic swimming pool?"
+  },
+  {
+    "trueQuestion": "How many separate alarms do you have to set in the morning to make sure you actually get out of bed?",
+    "decoyQuestion": "How many slices of pizza can an incredibly hungry teenager eat in one sitting?"
+  },
+  {
+    "trueQuestion": "What is the maximum number of standard movies you can watch back-to-back in one day before your eyes burn?",
+    "decoyQuestion": "How many hours does a flight across the Atlantic Ocean usually take?"
+  },
+  {
+    "trueQuestion": "What is a controversial food opinion you hold that would get you kicked out of an Italian restaurant?",
+    "decoyQuestion": "Name a common ingredient found in cheap frozen meals."
+  },
+  {
+    "trueQuestion": "If you could eliminate one mildly annoying sound from the world forever, what would it be?",
+    "decoyQuestion": "Name a sound an annoying alarm clock or machine makes."
+  },
+  {
+    "trueQuestion": "What is the most embarrassing thing your parents caught you doing as a kid?",
+    "decoyQuestion": "Name a common chore or activity kids do in their bedroom."
+  },
+  {
+    "trueQuestion": "If you had to change your legal first name to something completely ridiculous to win a million dollars, what name are you picking?",
+    "decoyQuestion": "Name a character from a goofy comedy movie or cartoon."
+  },
+  {
+    "trueQuestion": "What is an item you bought online that was an absolute, complete waste of your money?",
+    "decoyQuestion": "Name a cheap plastic item you would buy at a gas station or dollar store."
+  },
+  {
+    "trueQuestion": "If you were a medieval king or queen, what would be the first bizarre law you would pass?",
+    "decoyQuestion": "Name something people are forced to do at a boring office job."
+  },
+  {
+    "trueQuestion": "What is the absolute worst text message you could accidentally send to your boss or teacher?",
+    "decoyQuestion": "Name something a person says when they are breaking up with someone."
+  },
+  {
+    "trueQuestion": "What is a trend or hobby that instantly makes someone look like they are trying way too hard to be cool?",
+    "decoyQuestion": "Name a style of clothing popular with influencers on TikTok."
+  },
+  {
+    "trueQuestion": "If you were forced to perform a talent show in front of 10,000 people right now, what basic skill are you doing to try and survive?",
+    "decoyQuestion": "Name something a kid learns to do in a physical education class."
+  },
+  {
+    "trueQuestion": "What is a secret superpower you think you have that is completely unprovable (e.g., sensing when a storm is coming)?",
+    "decoyQuestion": "Name a basic instinct or physical reaction your body has when you get scared."
+  },
+  {
+    "trueQuestion": "How many browser tabs do you currently have open on your phone or computer right now?",
+    "decoyQuestion": "How many teeth does a normal adult human have?"
+  },
+  {
+    "trueQuestion": "What is the absolute lowest hourly wage ($/€) you would accept to sit in a blank room and watch paint dry for 8 hours?",
+    "decoyQuestion": "How much does a brand new AAA video game usually cost ($/€)?"
+  },
+  {
+    "trueQuestion": "What percent of your brain do you actually use on a typical Monday morning?",
+    "decoyQuestion": "What is the passing grade percentage for most standard school exams?"
+  },
+  {
+    "trueQuestion": "How many meters away does a spider have to be for you to feel relatively safe?",
+    "decoyQuestion": "How many meters long is a standard Olympic swimming pool?"
+  },
+  {
+    "trueQuestion": "At what age did you finally realize that adults actually have no idea what they are doing?",
+    "decoyQuestion": "At what age can you legally rent a car in most places?"
+  },
+  {
+    "trueQuestion": "How many pairs of socks do you currently own that have holes in them but you refuse to throw away?",
+    "decoyQuestion": "How many players are on a standard basketball court at the exact same time?"
+  },
+  {
+    "trueQuestion": "How many times a day do you open the fridge knowing perfectly well there is nothing new inside?",
+    "decoyQuestion": "How many wheels are on a standard commercial semi-truck?"
+  },
+  {
+    "trueQuestion": "How many hours could you survive inside a pitch-black haunted house for a million dollars?",
+    "decoyQuestion": "How many hours does it take to drive from New York to Washington DC?"
+  },
+  {
+    "trueQuestion": "What is the absolute coldest temperature (°C) you would willingly go outside in wearing just a t-shirt?",
+    "decoyQuestion": "At what exact temperature (°C) does water freeze?"
+  },
+  {
+    "trueQuestion": "How many months after Christmas is it socially acceptable to keep your holiday decorations up?",
+    "decoyQuestion": "How many months are in a standard financial business quarter?"
+  },
+  {
+    "trueQuestion": "What is the highest number of chicken nuggets you could realistically eat in a single sitting before being sick?",
+    "decoyQuestion": "How many cards are in a standard deck of playing cards (without jokers)?"
+  },
+  {
+    "trueQuestion": "How many seconds does the '5-second rule' actually last when you drop your absolute favorite food on the floor?",
+    "decoyQuestion": "How many seconds are in a standard professional basketball shot clock?"
+  },
+  {
+    "trueQuestion": "At what age is someone officially 'too old' to go trick-or-treating for Halloween candy?",
+    "decoyQuestion": "At what age do teenagers usually graduate from high school?"
+  },
+  {
+    "trueQuestion": "How much money ($/€) would a friend have to pay you to let them shave your head completely bald?",
+    "decoyQuestion": "How much does a decent, reliable used car typically cost ($/€)?"
+  },
+  {
+    "trueQuestion": "What percentage of the time are you actually paying attention during a long meeting or class?",
+    "decoyQuestion": "What percentage of the Earth's surface is covered by oceans?"
+  },
+  {
+    "trueQuestion": "How many times do you usually have to call your most unreliable friend before they actually pick up the phone?",
+    "decoyQuestion": "How many strikes do you get in baseball before you are out?"
+  },
+  {
+    "trueQuestion": "How many days a week do you actually eat a genuinely healthy, balanced breakfast?",
+    "decoyQuestion": "How many days a week does a typical corporate employee work?"
+  },
+  {
+    "trueQuestion": "How many meters would you willingly walk out of your way just to avoid making eye contact with an ex?",
+    "decoyQuestion": "How many meters is the standard outdoor track and field sprint race?"
+  },
+  {
+    "trueQuestion": "What is the most you would pay ($/€) for a single glass of plain tap water if you were incredibly thirsty?",
+    "decoyQuestion": "How much does a standard movie theater ticket usually cost ($/€)?"
+  },
+  {
+    "trueQuestion": "How many pillows do you absolutely need on your bed to actually get a good night's sleep?",
+    "decoyQuestion": "How many tires are on a standard passenger sedan?"
+  },
+  {
+    "trueQuestion": "What percentage of the random rumors you hear about celebrities do you think are actually true?",
+    "decoyQuestion": "What is the standard sales tax percentage in most normal cities?"
+  },
+  {
+    "trueQuestion": "What is the absolute most chaotic thing you could whisper to a stranger in a crowded elevator?",
+    "decoyQuestion": "Name a common polite greeting or farewell you say to a coworker."
+  },
+  {
+    "trueQuestion": "If you had to describe your cooking skills as a natural disaster, which disaster would it be?",
+    "decoyQuestion": "Name a common type of severe weather event."
+  },
+  {
+    "trueQuestion": "What is the most passive-aggressive emoji you can possibly send to someone during an argument?",
+    "decoyQuestion": "Name an emoji that is commonly used to show happiness or agreement."
+  },
+  {
+    "trueQuestion": "Which normal animal would be the most utterly terrifying if it could suddenly speak fluent English?",
+    "decoyQuestion": "Name a common, friendly household pet."
+  },
+  {
+    "trueQuestion": "What is a massive red flag on a first date that makes you instantly want to stand up and leave?",
+    "decoyQuestion": "Name a polite, standard conversational topic for a first date."
+  },
+  {
+    "trueQuestion": "What is the most ridiculous, tiny inconvenience you have ever genuinely cried over?",
+    "decoyQuestion": "Name a major life event that traditionally makes people cry tears of joy."
+  },
+  {
+    "trueQuestion": "If your internet history was made public tomorrow, what crime would people assume you were planning?",
+    "decoyQuestion": "Name a minor financial crime or white-collar offense."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing you could accidentally say immediately after a first kiss?",
+    "decoyQuestion": "Name a compliment you might give someone on their appearance."
+  },
+  {
+    "trueQuestion": "If you were a burglar but you only stole things that mildly inconvenience your victims, what are you taking?",
+    "decoyQuestion": "Name a valuable piece of technology or jewelry you keep in your house."
   }
 ]
