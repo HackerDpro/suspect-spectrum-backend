@@ -1,0 +1,30 @@
+[
+  {
+    "trueQuestion": "What is a movie sequel that is actually better than the original?",
+    "decoyQuestion": "Name a very popular action or superhero movie."
+  },
+  {
+    "trueQuestion": "Describe your personal aesthetic or fashion style in exactly three words.",
+    "decoyQuestion": "Name three random clothing items you wear in the winter."
+  },
+  {
+    "trueQuestion": "What is a weird food combination that you genuinely enjoy?",
+    "decoyQuestion": "Name a sweet and salty snack."
+  },
+  {
+    "trueQuestion": "If you could instantly master any musical instrument, what would it be?",
+    "decoyQuestion": "Name a loud instrument you would find in an orchestra."
+  },
+  {
+    "trueQuestion": "What is the most annoying habit a roommate or partner can have?",
+    "decoyQuestion": "Name something you do when you are angry."
+  },
+  {
+    "trueQuestion": "If you had to live in a fictional universe (movie, book, or game), which one would it be?",
+    "decoyQuestion": "Name a fantasy or sci-fi franchise with a lot of magic or tech."
+  },
+  {
+    "trueQuestion": "What is a controversial opinion you have about a popular TV show?",
+    "decoyQuestion": "Say something slightly negative about a famous actor or movie."
+  }
+]

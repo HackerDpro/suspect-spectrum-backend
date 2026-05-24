@@ -2,6 +2,7 @@ import express from 'express';
 import { createServer } from 'http';
 import { Server } from 'socket.io';
 import cors from 'cors';
+import fs from 'fs'; // <-- ADD THIS LINE
 
 const app = express();
 app.use(cors());
@@ -21,17 +22,9 @@ const io = new Server(httpServer, {
 // Global game state stored entirely in RAM (100% Free)
 const rooms = new Map();
 
-// High-quality question bank with subtle variations and ranges for the imposter
-const QUESTION_BANK = [
-  { trueQuestion: "How many minutes are in 3.5 hours?", decoyQuestion: "Guess a number between 180 and 240" },
-  { trueQuestion: "What is the standard cooking temperature (in Celsius) for baking a cake?", decoyQuestion: "Guess a temperature between 150°C and 200°C" },
-  { trueQuestion: "How many keys are on a standard grand piano?", decoyQuestion: "How many human bones are in an adult body?" },
-  { trueQuestion: "What is the typical flight speed of a commercial passenger jet in mph?", decoyQuestion: "Pick a high speed number between 450 and 600" },
-  { trueQuestion: "How many days are in a leap year?", decoyQuestion: "Pick a number between 350 and 370" },
-  { trueQuestion: "What is the capital city of Australia?", decoyQuestion: "Name a well-known Australian city that is NOT Sydney" },
-  { trueQuestion: "What animal is known as the 'Ship of the Desert'?", decoyQuestion: "Name a large mammal found in hot, arid environments" },
-  { trueQuestion: "How many structural bones make up a human adult skull?", decoyQuestion: "Pick a number between 15 and 30" }
-];
+// REMOVE THE OLD HARDCODED QUESTION_BANK ARRAY AND REPLACE IT WITH THIS:
+const rawData = fs.readFileSync(new URL('./questions.json', import.meta.url));
+const QUESTION_BANK = JSON.parse(rawData);
 
 function generateRoomCode() {
   return Math.random().toString(36).substring(2, 6).toUpperCase();
