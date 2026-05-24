@@ -9,8 +9,12 @@ app.use(cors());
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: "*", // Allows any frontend to connect
-    methods: ["GET", "POST"]
+    origin: [
+      "https://suspect-spectrum.netlify.app", 
+      "http://localhost:5173"
+    ],
+    methods: ["GET", "POST"],
+    credentials: true
   }
 });
 
