@@ -10,19 +10,13 @@ app.use(cors());
 const httpServer = createServer(app);
 const io = new Server(httpServer, {
   cors: {
-    origin: [
-      "https://suspect-spectrum.netlify.app", 
-      "http://localhost:5173"
-    ],
+    origin: ["https://suspect-spectrum.netlify.app", "http://localhost:5173"],
     methods: ["GET", "POST"],
     credentials: true
   }
 });
 
-// Global game state in RAM
 const rooms = new Map();
-
-// Read from your external questions database
 const rawData = fs.readFileSync(new URL('./questions.json', import.meta.url));
 const QUESTION_BANK = JSON.parse(rawData);
 
@@ -30,76 +24,49 @@ function generateRoomCode() {
   return Math.random().toString(36).substring(2, 6).toUpperCase();
 }
 
-// ADVANCED POINT SYSTEM
 function calculateScores(room) {
   const voteCounts = {};
-  
-  // Tally votes (ignoring 'NONE')
   room.players.forEach(p => {
     if (p.votedFor && p.votedFor !== 'NONE') {
       voteCounts[p.votedFor] = (voteCounts[p.votedFor] || 0) + 1;
     }
   });
 
-  // Find most voted player(s)
   let maxVotes = 0;
   let mostVotedIds = [];
   Object.entries(voteCounts).forEach(([id, count]) => {
-    if (count > maxVotes) {
-      maxVotes = count;
-      mostVotedIds = [id];
-    } else if (count === maxVotes) {
-      mostVotedIds.push(id);
-    }
+    if (count > maxVotes) { maxVotes = count; mostVotedIds = [id]; } 
+    else if (count === maxVotes) { mostVotedIds.push(id); }
   });
 
   if (room.gameMode === 'Paranoia') {
-    // 0 IMPOSTERS SCORING
     room.players.forEach(p => {
-      if (p.votedFor === 'NONE') p.score += 2; // Smart! Spotted Paranoia
-      else p.score -= 1; // Paranoia penalty for turning on a friend
+      if (p.votedFor === 'NONE') p.score += 2; 
+      else p.score -= 1; 
     });
   } else {
-    // 1 OR 2 IMPOSTERS SCORING
     room.players.forEach(p => {
       const isImposter = room.imposterIds.includes(p.id);
-      
       if (!isImposter) {
-        // Crewmember Scoring
-        if (room.imposterIds.includes(p.votedFor)) {
-          p.score += 1; // Caught an imposter
-        } else if (p.votedFor === 'NONE') {
-          p.score -= 1; // Voted nobody when there WAS a threat
-        }
+        if (room.imposterIds.includes(p.votedFor)) p.score += 1; 
+        else if (p.votedFor === 'NONE') p.score -= 1; 
       } else {
-        // Imposter Scoring
         const gotCaught = mostVotedIds.includes(p.id);
-        if (!gotCaught) {
-          p.score += (room.gameMode === 'Syndicate' ? 2 : 3); // 3 pts if solo, 2 pts if syndicate
-        }
+        if (!gotCaught) p.score += (room.gameMode === 'Syndicate' ? 2 : 3); 
       }
     });
   }
 }
 
 io.on('connection', (socket) => {
-  console.log(`User connected: ${socket.id}`);
-
   socket.on('createRoom', ({ playerName }) => {
     const roomId = generateRoomCode();
     const newPlayer = {
-      id: socket.id, name: playerName, score: 0, answer: '', votedFor: '', hasVoted: false, isHost: true
+      id: socket.id, name: playerName, score: 0, answer: '', votedFor: '', hasVoted: false, isHost: true, wantsToSkip: false
     };
 
     rooms.set(roomId, {
-      id: roomId,
-      players: [newPlayer],
-      gameState: 'lobby', 
-      revealPhase: 'none', 
-      imposterIds: [], // Now an array for multiple imposters
-      gameMode: 'Normal',
-      currentQuestion: null,
-      timer: 0
+      id: roomId, players: [newPlayer], gameState: 'lobby', revealPhase: 'none', imposterIds: [], gameMode: 'Normal', currentQuestion: null, timer: 0, intervalId: null
     });
 
     socket.join(roomId);
@@ -109,12 +76,11 @@ io.on('connection', (socket) => {
   socket.on('joinRoom', ({ roomId, playerName }) => {
     const code = roomId.toUpperCase();
     if (!rooms.has(code)) return socket.emit('errorMsg', 'Room not found!');
-    
     const room = rooms.get(code);
     if (room.gameState !== 'lobby') return socket.emit('errorMsg', 'Game in progress!');
 
     room.players.push({
-      id: socket.id, name: playerName, score: 0, answer: '', votedFor: '', hasVoted: false, isHost: false
+      id: socket.id, name: playerName, score: 0, answer: '', votedFor: '', hasVoted: false, isHost: false, wantsToSkip: false
     });
     
     socket.join(code);
@@ -125,23 +91,18 @@ io.on('connection', (socket) => {
     const room = rooms.get(roomId);
     if (!room || room.players.length < 3) return io.to(roomId).emit('errorMsg', 'Need at least 3 players!');
 
-    room.players.forEach(p => { p.answer = ''; p.votedFor = ''; p.hasVoted = false; });
+    room.players.forEach(p => { p.answer = ''; p.votedFor = ''; p.hasVoted = false; p.wantsToSkip = false; });
 
-    // THE CHAOS ENGINE: Determine Game Mode
     const roll = Math.random();
     room.imposterIds = [];
     room.gameMode = 'Normal';
 
-    if (roll < 0.15) {
-      // 15% Chance: PARANOIA MODE (0 Imposters)
-      room.gameMode = 'Paranoia';
-    } else if (roll > 0.85 && room.players.length >= 5) {
-      // 15% Chance: THE SYNDICATE (2 Imposters, requires 5+ players)
+    if (roll < 0.15) room.gameMode = 'Paranoia';
+    else if (roll > 0.85 && room.players.length >= 5) {
       room.gameMode = 'Syndicate';
       let shuffled = [...room.players].sort(() => 0.5 - Math.random());
       room.imposterIds = [shuffled[0].id, shuffled[1].id];
     } else {
-      // 70% Chance: STANDARD (1 Imposter)
       let randomIndex = Math.floor(Math.random() * room.players.length);
       room.imposterIds = [room.players[randomIndex].id];
     }
@@ -160,23 +121,43 @@ io.on('connection', (socket) => {
 
     if (room.players.every(p => p.answer.trim().length > 0)) {
       room.gameState = 'debate';
-      room.timer = 60;
+      room.timer = 60; // Kept at 60 seconds
+      room.players.forEach(p => p.wantsToSkip = false); // Reset skip tracker
       io.to(roomId).emit('roomState', room);
 
-      const intervalId = setInterval(() => {
+      room.intervalId = setInterval(() => {
         const liveRoom = rooms.get(roomId);
-        if (!liveRoom || liveRoom.gameState !== 'debate') return clearInterval(intervalId);
+        if (!liveRoom || liveRoom.gameState !== 'debate') return clearInterval(liveRoom?.intervalId);
         
         liveRoom.timer--;
         if (liveRoom.timer <= 0) {
           liveRoom.gameState = 'voting';
-          clearInterval(intervalId);
+          clearInterval(liveRoom.intervalId);
         }
         io.to(roomId).emit('roomState', liveRoom);
       }, 1000);
     } else {
       io.to(roomId).emit('roomState', room);
     }
+  });
+
+  // NEW FEATURE: Skip Debate Listener
+  socket.on('skipDebate', ({ roomId }) => {
+    const room = rooms.get(roomId);
+    if (!room || room.gameState !== 'debate') return;
+
+    const player = room.players.find(p => p.id === socket.id);
+    if (player) player.wantsToSkip = true;
+
+    const skipCount = room.players.filter(p => p.wantsToSkip).length;
+
+    // If 100% of the lobby votes to skip
+    if (skipCount >= room.players.length) {
+      room.gameState = 'voting';
+      clearInterval(room.intervalId); // Stop the clock immediately
+    }
+    
+    io.to(roomId).emit('roomState', room);
   });
 
   socket.on('submitVote', ({ roomId, targetPlayerId }) => {
@@ -201,7 +182,7 @@ io.on('connection', (socket) => {
           liveRoom.revealPhase = 'identity';
           io.to(roomId).emit('roomState', liveRoom);
         }
-      }, 6000); // 6 second delay for dramatic tension
+      }, 6000);
     } else {
       io.to(roomId).emit('roomState', room);
     }
