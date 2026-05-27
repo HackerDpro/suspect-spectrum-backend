@@ -17,6 +17,9 @@ const io = new Server(httpServer, {
 });
 
 const rooms = new Map();
+// 🚀 BUG FIX: Store timers globally, NEVER inside the room object!
+const activeTimers = new Map(); 
+
 const rawData = fs.readFileSync(new URL('./questions.json', import.meta.url));
 const QUESTION_BANK = JSON.parse(rawData);
 
@@ -66,7 +69,7 @@ io.on('connection', (socket) => {
     };
 
     rooms.set(roomId, {
-      id: roomId, players: [newPlayer], gameState: 'lobby', revealPhase: 'none', imposterIds: [], gameMode: 'Normal', currentQuestion: null, timer: 0, intervalId: null
+      id: roomId, players: [newPlayer], gameState: 'lobby', revealPhase: 'none', imposterIds: [], gameMode: 'Normal', currentQuestion: null, timer: 0
     });
 
     socket.join(roomId);
@@ -119,29 +122,39 @@ io.on('connection', (socket) => {
     const player = room.players.find(p => p.id === socket.id);
     if (player) player.answer = answer;
 
+    io.to(roomId).emit('roomState', room); // Update UI to show "Player is ready"
+
     if (room.players.every(p => p.answer.trim().length > 0)) {
       room.gameState = 'debate';
-      room.timer = 60; // Kept at 60 seconds
-      room.players.forEach(p => p.wantsToSkip = false); // Reset skip tracker
+      room.timer = 60; // 60 seconds
+      room.players.forEach(p => p.wantsToSkip = false);
       io.to(roomId).emit('roomState', room);
 
-      room.intervalId = setInterval(() => {
+      // Clean up any old timers
+      if (activeTimers.has(roomId)) clearInterval(activeTimers.get(roomId));
+
+      // Start isolated clock engine
+      const timerId = setInterval(() => {
         const liveRoom = rooms.get(roomId);
-        if (!liveRoom || liveRoom.gameState !== 'debate') return clearInterval(liveRoom?.intervalId);
+        if (!liveRoom || liveRoom.gameState !== 'debate') {
+          clearInterval(timerId);
+          activeTimers.delete(roomId);
+          return;
+        }
         
         liveRoom.timer--;
         if (liveRoom.timer <= 0) {
           liveRoom.gameState = 'voting';
-          clearInterval(liveRoom.intervalId);
+          clearInterval(timerId);
+          activeTimers.delete(roomId);
         }
         io.to(roomId).emit('roomState', liveRoom);
       }, 1000);
-    } else {
-      io.to(roomId).emit('roomState', room);
+      
+      activeTimers.set(roomId, timerId);
     }
   });
 
-  // NEW FEATURE: Skip Debate Listener
   socket.on('skipDebate', ({ roomId }) => {
     const room = rooms.get(roomId);
     if (!room || room.gameState !== 'debate') return;
@@ -151,10 +164,12 @@ io.on('connection', (socket) => {
 
     const skipCount = room.players.filter(p => p.wantsToSkip).length;
 
-    // If 100% of the lobby votes to skip
     if (skipCount >= room.players.length) {
       room.gameState = 'voting';
-      clearInterval(room.intervalId); // Stop the clock immediately
+      if (activeTimers.has(roomId)) {
+        clearInterval(activeTimers.get(roomId));
+        activeTimers.delete(roomId);
+      }
     }
     
     io.to(roomId).emit('roomState', room);
@@ -169,6 +184,8 @@ io.on('connection', (socket) => {
       player.votedFor = targetPlayerId;
       player.hasVoted = true;
     }
+    
+    io.to(roomId).emit('roomState', room); // Update UI to show "Player has voted"
 
     if (room.players.every(p => p.hasVoted)) {
       calculateScores(room);
@@ -183,8 +200,6 @@ io.on('connection', (socket) => {
           io.to(roomId).emit('roomState', liveRoom);
         }
       }, 6000);
-    } else {
-      io.to(roomId).emit('roomState', room);
     }
   });
 
@@ -193,8 +208,13 @@ io.on('connection', (socket) => {
       const index = room.players.findIndex(p => p.id === socket.id);
       if (index !== -1) {
         room.players.splice(index, 1);
-        if (room.players.length === 0) rooms.delete(roomId);
-        else {
+        if (room.players.length === 0) {
+          rooms.delete(roomId);
+          if (activeTimers.has(roomId)) {
+            clearInterval(activeTimers.get(roomId));
+            activeTimers.delete(roomId);
+          }
+        } else {
           if (!room.players.some(p => p.isHost)) room.players[0].isHost = true;
           io.to(roomId).emit('roomState', room);
         }
@@ -205,5 +225,5 @@ io.on('connection', (socket) => {
 
 const PORT = process.env.PORT || 4000;
 httpServer.listen(PORT, '0.0.0.0', () => {
-  console.log(`Suspect Spectrum Chaos Engine live on port ${PORT}`);
+  console.log(`Suspect Spectrum Chaos Engine v2 live on port ${PORT}`);
 });
