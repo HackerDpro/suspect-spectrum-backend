@@ -250,5 +250,1529 @@
   {
     "trueQuestion": "If you were a burglar but you only stole things that mildly inconvenience your victims, what are you taking?",
     "decoyQuestion": "Name a valuable piece of technology or jewelry you keep in your house."
+  },
+  {
+    "trueQuestion": "What's the absolute worst thing to find in your bed when waking up?",
+    "decoyQuestion": "Name a creepy crawly insect or pest."
+  },
+  {
+    "trueQuestion": "Name something you should never do during a serious job interview.",
+    "decoyQuestion": "Name something you only do when you're completely alone at home."
+  },
+  {
+    "trueQuestion": "What is the most useless superpower imaginable?",
+    "decoyQuestion": "What is a superpower you would use to play a harmless prank?"
+  },
+  {
+    "trueQuestion": "Name something you do immediately when you enter an elevator with strangers.",
+    "decoyQuestion": "Name something you do when you are feeling incredibly anxious."
+  },
+  {
+    "trueQuestion": "What is the ultimate topping to put on a slice of pizza?",
+    "decoyQuestion": "What is something you would find inside a sandwich?"
+  },
+  {
+    "trueQuestion": "Name a place where you are forced to be completely quiet.",
+    "decoyQuestion": "Name a place where you go to study or read."
+  },
+  {
+    "trueQuestion": "What's something you always buy but hope you never have to use?",
+    "decoyQuestion": "Name an item you keep in the trunk of your car."
+  },
+  {
+    "trueQuestion": "Name a green food that kids absolutely hate eating.",
+    "decoyQuestion": "Name a common ingredient used in a healthy salad."
+  },
+  {
+    "trueQuestion": "What is something you bring with you to the beach?",
+    "decoyQuestion": "Name something made primarily of plastic or rubber."
+  },
+  {
+    "trueQuestion": "Name an item in your house that you lose at least once a week.",
+    "decoyQuestion": "Name a small object made of metal."
+  },
+  {
+    "trueQuestion": "What is a perfectly valid reason to call out sick from work?",
+    "decoyQuestion": "Name a common physical symptom of a cold or flu."
+  },
+  {
+    "trueQuestion": "What is the worst possible first date activity?",
+    "decoyQuestion": "Name an enjoyable outdoor weekend activity."
+  },
+  {
+    "trueQuestion": "Name a job that pays well but completely ruins your social life.",
+    "decoyQuestion": "Name a profession where you are required to wear a uniform."
+  },
+  {
+    "trueQuestion": "What is something people do only when they are trying to look cool?",
+    "decoyQuestion": "What is something teenagers do to rebel against their parents?"
+  },
+  {
+    "trueQuestion": "Name an object you find in a standard bathroom.",
+    "decoyQuestion": "Name an object you find in a standard kitchen."
+  },
+  {
+    "trueQuestion": "What is something you do when you get a sudden burst of late-night motivation?",
+    "decoyQuestion": "What is something you do right before going to sleep?"
+  },
+  {
+    "trueQuestion": "Name an animal that looks incredibly cute but could easily kill you.",
+    "decoyQuestion": "Name a wild mammal you might see at a zoo."
+  },
+  {
+    "trueQuestion": "What is something you can buy at a store for under five dollars?",
+    "decoyQuestion": "Name a common item you can buy out of a vending machine."
+  },
+  {
+    "trueQuestion": "Name an overhyped holiday that doesn't deserve the fame.",
+    "decoyQuestion": "Name a holiday where family members gather to eat a large meal."
+  },
+  {
+    "trueQuestion": "What is something you yell when you are furiously angry?",
+    "decoyQuestion": "What is a common slang word or abbreviation used in texting?"
+  },
+  {
+    "trueQuestion": "Name the most attractive profession someone can have.",
+    "decoyQuestion": "Name a job that involves working directly with high-end luxury items."
+  },
+  {
+    "trueQuestion": "What is something you should absolutely never bring on an airplane?",
+    "decoyQuestion": "Name a sharp tool you would find in a garage or shed."
+  },
+  {
+    "trueQuestion": "Name a movie that is guaranteed to make a grown adult cry.",
+    "decoyQuestion": "Name a movie that features a notoriously tragic ending."
+  },
+  {
+    "trueQuestion": "What is a food that smells terrible but tastes amazing?",
+    "decoyQuestion": "Name a dairy product or fermented food item."
+  },
+  {
+    "trueQuestion": "Name something you do to quickly break an awkward silence.",
+    "decoyQuestion": "Name a nervous habit or gesture people do with their hands."
+  },
+  {
+    "trueQuestion": "What is the first thing you would buy if you won a billion dollars?",
+    "decoyQuestion": "What is a luxury item you can see out on the open ocean?"
+  },
+  {
+    "trueQuestion": "Name a domestic animal that would make a terrible house pet.",
+    "decoyQuestion": "Name a large farm animal."
+  },
+  {
+    "trueQuestion": "What is something you use to clean up a huge mess?",
+    "decoyQuestion": "Name an object you find underneath your kitchen sink."
+  },
+  {
+    "trueQuestion": "Name a character trait that instantly makes someone untrustworthy.",
+    "decoyQuestion": "Name a flaw you frequently see in classic movie villains."
+  },
+  {
+    "trueQuestion": "What's the best smell in the world?",
+    "decoyQuestion": "Name something you smell when walking into a bakery or kitchen."
+  },
+  {
+    "trueQuestion": "What is something you do when you are trying to ignore someone?",
+    "decoyQuestion": "What is something you do when you look at your smartphone?"
+  },
+  {
+    "trueQuestion": "Name a sport that requires absolutely zero athletic talent.",
+    "decoyQuestion": "Name a game you can play while holding a beverage."
+  },
+  {
+    "trueQuestion": "What is the worst text message to receive from your romantic partner?",
+    "decoyQuestion": "What is a common phrase used to start a serious conversation?"
+  },
+  {
+    "trueQuestion": "Name an object you would hate to drop down a public toilet.",
+    "decoyQuestion": "Name something valuable you carry in your pocket or purse."
+  },
+  {
+    "trueQuestion": "What is the most boring chore you have to do at home?",
+    "decoyQuestion": "Name an activity that involves cleaning or sorting clothes."
+  },
+  {
+    "trueQuestion": "Name something you do when you are home alone and the power goes out.",
+    "decoyQuestion": "Name an object you use to illuminate a dark room."
+  },
+  {
+    "trueQuestion": "What is a food item that should never, under any circumstances, be sweet?",
+    "decoyQuestion": "Name a popular savory dinner dish."
+  },
+  {
+    "trueQuestion": "Name a creature that terrified you when you were a little kid.",
+    "decoyQuestion": "Name a monster commonly associated with Halloween."
+  },
+  {
+    "trueQuestion": "What is something people lie about on their dating profiles?",
+    "decoyQuestion": "Name a physical metric or trait used on a driver's license."
+  },
+  {
+    "trueQuestion": "Name a place where people always end up arguing.",
+    "decoyQuestion": "Name a place where families gather during the holidays."
+  },
+  {
+    "trueQuestion": "What is something you do when you are trying to fall asleep but can't?",
+    "decoyQuestion": "Name a repetitive action or mental exercise."
+  },
+  {
+    "trueQuestion": "Name a luxury brand that is a total waste of money.",
+    "decoyQuestion": "Name a brand known for making expensive clothing or bags."
+  },
+  {
+    "trueQuestion": "What is the worst thing to forget when going on a long road trip?",
+    "decoyQuestion": "Name an electronic accessory you use daily."
+  },
+  {
+    "trueQuestion": "Name a song that instantly gets stuck in your head for days.",
+    "decoyQuestion": "Name a popular children's song or viral melody."
+  },
+  {
+    "trueQuestion": "What is something you do when you realize you walked into the wrong room?",
+    "decoyQuestion": "Name a physical movement you make to change your direction."
+  },
+  {
+    "trueQuestion": "Name a snack food that makes an incredibly loud noise when you chew it.",
+    "decoyQuestion": "Name a popular snack food found in a vending machine."
+  },
+  {
+    "trueQuestion": "What is the most annoying habit a roommate can have?",
+    "decoyQuestion": "Name an action that creates loud, disruptive noises at night."
+  },
+  {
+    "trueQuestion": "What is something you do to show someone you are actively listening to them?",
+    "decoyQuestion": "Name a subtle gesture you make with your face or head."
+  },
+  {
+    "trueQuestion": "Name a historical figure you would absolutely hate to be trapped in a room with.",
+    "decoyQuestion": "Name a famous dictator or military leader from history."
+  },
+  {
+    "trueQuestion": "What is the best type of weather for staying indoors all day?",
+    "decoyQuestion": "Name a weather condition that involves precipitation."
+  },
+  {
+    "trueQuestion": "Name something you should never say to a police officer who pulls you over.",
+    "decoyQuestion": "Name a common excuse given for arriving late to an event."
+  },
+  {
+    "trueQuestion": "What is the absolute worst flavor of ice cream?",
+    "decoyQuestion": "Name a medicinal herb, vegetable, or spice."
+  },
+  {
+    "trueQuestion": "Name a place where you are guaranteed to waste a huge amount of time.",
+    "decoyQuestion": "Name a government building or medical facility."
+  },
+  {
+    "trueQuestion": "What is something you do when you hear an incredibly loud, unexplained noise at night?",
+    "decoyQuestion": "What is an action that shows you are trying to stay safe?"
+  },
+  {
+    "trueQuestion": "Name an animal that would look completely ridiculous if it wore pants.",
+    "decoyQuestion": "Name an animal with an unusually long neck or tail."
+  },
+  {
+    "trueQuestion": "What is something you only do when you are in a fantastic mood?",
+    "decoyQuestion": "Name an action that involves vocalizing or moving to music."
+  },
+  {
+    "trueQuestion": "Name a fictional world you would absolutely love to live in.",
+    "decoyQuestion": "Name a famous movie franchise that features magic or futuristic technology."
+  },
+  {
+    "trueQuestion": "What is the worst thing to find floating at the top of your morning coffee?",
+    "decoyQuestion": "Name a small object or substance that could fall from the ceiling."
+  },
+  {
+    "trueQuestion": "Name something you do to make yourself look busy when your boss walks past.",
+    "decoyQuestion": "Name an action that involves using a computer or office paperwork."
+  },
+  {
+    "trueQuestion": "What is the most physically painful minor injury imaginable?",
+    "decoyQuestion": "Name a small injury you can get while working at a desk or in a kitchen."
+  },
+  {
+    "trueQuestion": "Name a food that is impossible to eat cleanly without making a total mess.",
+    "decoyQuestion": "Name a popular street food or fast-food item."
+  },
+  {
+    "trueQuestion": "What is something you do when you are waiting in an incredibly long, slow line?",
+    "decoyQuestion": "Name an activity you can do on your mobile phone with one hand."
+  },
+  {
+    "trueQuestion": "Name a household object that is entirely manual but should definitely be automated.",
+    "decoyQuestion": "Name a cleaning tool found in a broom closet."
+  },
+  {
+    "trueQuestion": "What is the worst thing that could happen right in the middle of a wedding ceremony?",
+    "decoyQuestion": "Name a embarrassing medical emergency or social blunder."
+  },
+  {
+    "trueQuestion": "Name an animal that is secretly plotting world domination.",
+    "decoyQuestion": "Name a common domestic pet or urban animal."
+  },
+  {
+    "trueQuestion": "What is something you should never do while operating heavy machinery?",
+    "decoyQuestion": "Name an activity that causes extreme physical or visual distraction."
+  },
+  {
+    "trueQuestion": "Name the absolute best comfort food to eat when you are feeling sad.",
+    "decoyQuestion": "Name a food item high in carbohydrates or melted cheese."
+  },
+  {
+    "trueQuestion": "What is something you do when you try to act natural but end up looking weirder?",
+    "decoyQuestion": "Name a natural bodily movement or adjustment."
+  },
+  {
+    "trueQuestion": "Name a clothing item that should be permanently banned from fashion.",
+    "decoyQuestion": "Name an item of footwear or casual summer attire."
+  },
+  {
+    "trueQuestion": "What is the most annoying sound in the world?",
+    "decoyQuestion": "Name a high-pitched repetitive sound made by machines or animals."
+  },
+  {
+    "trueQuestion": "Name something you do to prepare for a catastrophic zombie apocalypse.",
+    "decoyQuestion": "Name an action that involves gathering survival gear or barricading doors."
+  },
+  {
+    "trueQuestion": "What is the worst thing to hear right before you are put under anesthesia for surgery?",
+    "decoyQuestion": "What is a sentence that implies someone is making an unfixable mistake?"
+  },
+  {
+    "trueQuestion": "Name a candy that is absolute garbage and always left over on Halloween.",
+    "decoyQuestion": "Name a candy that is chewy, waxy, or contains nuts."
+  },
+  {
+    "trueQuestion": "What is something you do when someone is telling you a story that you care absolutely nothing about?",
+    "decoyQuestion": "Name an expression or action used to pretend you are interested."
+  },
+  {
+    "trueQuestion": "Name a vehicle you would feel incredibly embarrassed to be seen driving.",
+    "decoyQuestion": "Name a small, slow, or brightly colored mode of transportation."
+  },
+  {
+    "trueQuestion": "What is the worst object to use as a makeshift weapon during a home invasion?",
+    "decoyQuestion": "Name a fragile or soft item found in a bedroom or kitchen."
+  },
+  {
+    "trueQuestion": "Name a sport that feels more like an elegant art form than an actual game.",
+    "decoyQuestion": "Name a sport performed on ice, snow, or a polished floor."
+  },
+  {
+    "trueQuestion": "What is something you do when you walk past a mirror and nobody is watching you?",
+    "decoyQuestion": "Name a funny gesture or physical pose made to check your appearance."
+  },
+  {
+    "trueQuestion": "Name an invention that did way more harm to humanity than good.",
+    "decoyQuestion": "Name a digital technology, weapon, or industrial machine."
+  },
+  {
+    "trueQuestion": "What is the worst item to receive as a birthday present from your parents?",
+    "decoyQuestion": "Name a boring clothing item or utility object used for school or work."
+  },
+  {
+    "trueQuestion": "Name something you do when a movie theater gets incredibly boring.",
+    "decoyQuestion": "Name an action that involves consuming snacks or using a smartphone."
+  },
+  {
+    "trueQuestion": "What is the absolute best shape for a chicken nugget?",
+    "decoyQuestion": "Name a simple geometric shape or common silhouette."
+  },
+  {
+    "trueQuestion": "Name a common phrase used by managers that instantly makes you want to quit.",
+    "decoyQuestion": "What is a typical sentence spoken at the start of a corporate meeting?"
+  },
+  {
+    "trueQuestion": "What is something you should never bring into a public swimming pool?",
+    "decoyQuestion": "Name a fragile item or something that dissolves in water."
+  },
+  {
+    "trueQuestion": "Name a fictional character who would make an absolutely horrific US President.",
+    "decoyQuestion": "Name a chaotic cartoon character or classic cinematic villain."
+  },
+  {
+    "trueQuestion": "What is something you do to warm up when you are absolutely freezing cold?",
+    "decoyQuestion": "Name an action involving blankets, hot drinks, or physical friction."
+  },
+  {
+    "trueQuestion": "Name the worst possible sauce to put on a plate of pasta.",
+    "decoyQuestion": "Name a common condiment found in a fast-food restaurant."
+  },
+  {
+    "trueQuestion": "What is something you do when you are stuck in traffic and completely losing your mind?",
+    "decoyQuestion": "Name an action that involves audio systems or steering wheel physical habits."
+  },
+  {
+    "trueQuestion": "Name an object that becomes instantly terrifying if it suddenly starts moving on its own.",
+    "decoyQuestion": "Name a human-shaped object or children's toy."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to say right after kissing someone for the first time?",
+    "decoyQuestion": "Name a phrase that expresses polite criticism or accidental comparison."
+  },
+  {
+    "trueQuestion": "Name a job where it is perfectly acceptable to be slightly rude to customers.",
+    "decoyQuestion": "Name a fast-paced profession in the food or security industry."
+  },
+  {
+    "trueQuestion": "What is something you do when you accidentally make awkward eye contact with a complete stranger?",
+    "decoyQuestion": "Name a rapid facial movement or physical realignment."
+  },
+  {
+    "trueQuestion": "Name a movie that you have watched at least ten times and will happily watch again.",
+    "decoyQuestion": "Name a classic sci-fi, action, or comedy film from your youth."
+  },
+  {
+    "trueQuestion": "What is the worst possible smell to encounter when opening a refrigerator?",
+    "decoyQuestion": "Name a type of protein or dairy product that spoils quickly."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to convince someone that you are telling the truth.",
+    "decoyQuestion": "Name a physical gesture that involves eye contact or hand placement."
+  },
+  {
+    "trueQuestion": "What is the absolute best board game to play if you want to ruin a long-term friendship?",
+    "decoyQuestion": "Name a classic multi-player game involving property or strategy."
+  },
+  {
+    "trueQuestion": "Name something you do to pass the time when you are trapped sitting on an airplane tarmac.",
+    "decoyQuestion": "Name an activity you can do completely offline on a mobile device."
+  },
+  {
+    "trueQuestion": "What is the most useless item of clothing currently sitting inside your closet?",
+    "decoyQuestion": "Name a formal or highly specific seasonal clothing accessory."
+  },
+  {
+    "trueQuestion": "Name a creature from mythology that you wish actually existed in the wild today.",
+    "decoyQuestion": "Name a majestic winged animal or legendary horse-like creature."
+  },
+  {
+    "trueQuestion": "What is the worst thing that could happen right as you are giving a massive speech?",
+    "decoyQuestion": "Name an unpreventable tech failure or a sudden physical reflex."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to remember where you parked your car.",
+    "decoyQuestion": "Name an action that involves wandering around looking at your keys or phone."
+  },
+  {
+    "trueQuestion": "What is a food combo that sounds absolutely repulsive but actually tastes incredible?",
+    "decoyQuestion": "Name a combination of a sweet snack and a salty condiment."
+  },
+  {
+    "trueQuestion": "Name something you should never look at through a powerful microscope.",
+    "decoyQuestion": "Name a biological surface or common household dirt texture."
+  },
+  {
+    "trueQuestion": "What is the ultimate worst song to play at a high school prom dance?",
+    "decoyQuestion": "Name a high-energy rock song or a deeply depressing ballad."
+  },
+  {
+    "trueQuestion": "Name something you do when you try to sneak out of a room completely undetected.",
+    "decoyQuestion": "Name a slow physical movement involving footsteps or doors."
+  },
+  {
+    "trueQuestion": "What is the most dangerous object currently sitting inside your kitchen?",
+    "decoyQuestion": "Name a sharp tool or heating appliance used in cooking."
+  },
+  {
+    "trueQuestion": "Name an activity that instantly makes you feel like an old person.",
+    "decoyQuestion": "Name a quiet hobby involving sitting down or checking weather/prices."
+  },
+  {
+    "trueQuestion": "What is something you do when you feel a massive sneeze coming on but want to stop it?",
+    "decoyQuestion": "Name a physical action involving your nose, face, or fingers."
+  },
+  {
+    "trueQuestion": "Name the absolute worst color to paint the walls of a bedroom.",
+    "decoyQuestion": "Name an incredibly bright, neon, or highly aggressive color."
+  },
+  {
+    "trueQuestion": "What is something you do to look incredibly sophisticated at an art museum?",
+    "decoyQuestion": "Name a reflective facial expression or posture used when inspecting an object."
+  },
+  {
+    "trueQuestion": "Name a profession that is completely overpaid for the amount of actual work they perform.",
+    "decoyQuestion": "Name a job in sports, entertainment, or executive corporate systems."
+  },
+  {
+    "trueQuestion": "What is the worst thing to pull out of your pocket when looking for your house keys?",
+    "decoyQuestion": "Name a small trash item or a flexible piece of paper/wrapper."
+  },
+  {
+    "trueQuestion": "Name an animal that would be absolutely terrifying if it could fly at high speeds.",
+    "decoyQuestion": "Name a heavy mammal or an aquatic predator."
+  },
+  {
+    "trueQuestion": "What is something you do when your internet connection drops to zero during an intense game?",
+    "decoyQuestion": "Name an aggressive physical action involving electronic hardware or vocal groans."
+  },
+  {
+    "trueQuestion": "Name the absolute best vegetable to cook on an outdoor grill.",
+    "decoyQuestion": "Name a common vegetable that is firm, green, or cylindrical."
+  },
+  {
+    "trueQuestion": "What is something you do when you are completely home alone and hear your name whispered?",
+    "decoyQuestion": "Name an action showing immediate panic or search for defensive items."
+  },
+  {
+    "trueQuestion": "Name a classic video game that will never be beaten in terms of pure design.",
+    "decoyQuestion": "Name a famous retro arcade game or pixelated puzzle game."
+  },
+  {
+    "trueQuestion": "What is the worst possible topping to accidentally drop onto a fresh scoop of vanilla ice cream?",
+    "decoyQuestion": "Name a savory seasoning or liquid condiment."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to hide a massive smile in an inappropriate situation.",
+    "decoyQuestion": "Name a physical action that involves biting your lip or covering your face."
+  },
+  {
+    "trueQuestion": "Name a plant or flower that looks beautiful but is highly toxic or annoying to deal with.",
+    "decoyQuestion": "Name a thorny plant or a flower with an intense, powerful color."
+  },
+  {
+    "trueQuestion": "What is something you do when you wake up from a terrifying nightmare and need to calm down?",
+    "decoyQuestion": "Name a slow sensory action involving deep breathing or drinking liquids."
+  },
+  {
+    "trueQuestion": "Name the absolute worst thing to find inside your fast-food bag.",
+    "decoyQuestion": "Name a small item of trash or a hair/bug element."
+  },
+  {
+    "trueQuestion": "What is something you do when a song you absolutely despise starts playing in public?",
+    "decoyQuestion": "Name a physical reflex like rolling your eyes or altering your location."
+  },
+  {
+    "trueQuestion": "Name a job where you have to constantly lie to people to ensure success.",
+    "decoyQuestion": "Name a profession in marketing, sales, or public communication."
+  },
+  {
+    "trueQuestion": "What is the worst thing to realize you forgot to bring into the shower with you?",
+    "decoyQuestion": "Name a fabric object or item used to dry yourself."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to act completely sober in front of authority figures.",
+    "decoyQuestion": "Name a stiff physical posture or generic greeting method."
+  },
+  {
+    "trueQuestion": "Name an object that you use every single day but have absolutely no idea how it actually works internally.",
+    "decoyQuestion": "Name a modern touch-screen or wireless electronic consumer item."
+  },
+  {
+    "trueQuestion": "What is the absolute worst flavor of potato chips?",
+    "decoyQuestion": "Name a strong food flavor profile involving vinegar, fish, or specific herbs."
+  },
+  {
+    "trueQuestion": "Name something you do when you see a massive spider disappear under your couch.",
+    "decoyQuestion": "Name an action that involves grabbing defensive weapons or shifting furniture."
+  },
+  {
+    "trueQuestion": "Name a cartoon character who you would trust with your deepest, darkest secrets.",
+    "decoyQuestion": "Name a wise, elderly, or completely silent animated figure."
+  },
+  {
+    "trueQuestion": "What is the worst thing to see when you look out the window of an airplane in mid-flight?",
+    "decoyQuestion": "Name a natural atmospheric phenomenon or a part of a mechanical engine."
+  },
+  {
+    "trueQuestion": "Name something you do when you realize you've been talking out loud to yourself and someone saw you.",
+    "decoyQuestion": "Name a quick recovery action like pretending to wear headphones or coughing."
+  },
+  {
+    "trueQuestion": "Name a classic school subject that is a complete and utter waste of time for real-world life.",
+    "decoyQuestion": "Name a theoretical math, history, or ancient language course."
+  },
+  {
+    "trueQuestion": "What is the worst sound to hear when you turn the key to start your car engine?",
+    "decoyQuestion": "Name a metallic repetitive noise or a clicking/grinding sound."
+  },
+  {
+    "trueQuestion": "Name something you do when you receive a phone call from an unknown international number.",
+    "decoyQuestion": "Name an action that involves ignoring or actively rejecting a digital request."
+  },
+  {
+    "trueQuestion": "Name a type of food that looks like absolute hot garbage but tastes completely divine.",
+    "decoyQuestion": "Name a slow-cooked stew, melted cheese casserole, or Indian curry dish."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to say when your boss asks why you were late to work?",
+    "decoyQuestion": "Name a bizarre, unrealistic excuse involving sleep or transport accidents."
+  },
+  {
+    "trueQuestion": "Name something you do when you are checking to make sure your front door is completely locked.",
+    "decoyQuestion": "Name an action involving physical force on a metal handle or knob."
+  },
+  {
+    "trueQuestion": "Name a specific animal that you think looks like a complete alien life form.",
+    "decoyQuestion": "Name a deep-sea creature or an invertebrate with many limbs."
+  },
+  {
+    "trueQuestion": "What is the worst thing to feel rolling around inside the toe area of your shoe?",
+    "decoyQuestion": "Name a small, hard, or organic object that could enter a shoe outdoor."
+  },
+  {
+    "trueQuestion": "Name something you do when a street vendor or salesperson tries to corner you.",
+    "decoyQuestion": "Name an evasive movement like walking faster or looking at your phone."
+  },
+  {
+    "trueQuestion": "Name a food trend that needs to disappear into history immediately.",
+    "decoyQuestion": "Name a food prep style involving charcoal, gold flakes, or extreme spice."
+  },
+  {
+    "trueQuestion": "What is the worst possible song to have playing while you are breaking up with someone?",
+    "decoyQuestion": "Name an upbeat, cheesy pop track or a ridiculously celebratory anthem."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally step in a massive puddle of water while wearing socks.",
+    "decoyQuestion": "Name an expression of absolute disgust or an immediate peeling action."
+  },
+  {
+    "trueQuestion": "Name a household appliance that seems to have a personal, malicious vendetta against you.",
+    "decoyQuestion": "Name a machine that often jams, tangles, or makes loud unprompted bleeps."
+  },
+  {
+    "trueQuestion": "What is the worst thing to accidentally drop down an active garbage disposal unit?",
+    "decoyQuestion": "Name a small piece of silverware or a valuable piece of jewelry."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to look like you know exactly where you are going in a strange city.",
+    "decoyQuestion": "Name a confident posture involving rapid strides or inspecting map apps quietly."
+  },
+  {
+    "trueQuestion": "Name a specific chore that you will gladly pay someone else money to do for you.",
+    "decoyQuestion": "Name a physical labor task involving cleaning bathrooms or heavy outdoor work."
+  },
+  {
+    "trueQuestion": "What is the most awkward thing to have happen to your clothes in a public space?",
+    "decoyQuestion": "Name a mechanical clothing failure involving zippers, tears, or stains."
+  },
+  {
+    "trueQuestion": "Name something you do when your stomach makes an incredibly loud growling noise in a silent room.",
+    "decoyQuestion": "Name a defensive cover action like coughing, shifting your chair, or rubbing your torso."
+  },
+  {
+    "trueQuestion": "Name a movie genre that is completely oversaturated and boring to watch now.",
+    "decoyQuestion": "Name a genre with heavily repetitive tropes, massive CGI budgets, or cheap scares."
+  },
+  {
+    "trueQuestion": "What is the worst thing to discover is completely missing right after you finish using a public restroom stall?",
+    "decoyQuestion": "Name a paper sanitation product or a sink cleaning element."
+  },
+  {
+    "trueQuestion": "Name something you do when you see someone you vaguely know walking toward you in public and want to avoid them.",
+    "decoyQuestion": "Name an escape route maneuver like dodging into a retail store or altering your gait."
+  },
+  {
+    "trueQuestion": "Name a food item that is completely ruined the exact second it is cooked in a microwave.",
+    "decoyQuestion": "Name a carbohydrate or fried food item that needs to stay crisp."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find inside your pocket when your clothes come out of the laundry machine?",
+    "decoyQuestion": "Name a paper item or electronic accessory that destroys easily in water."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to read a menu in an incredibly dark, pretentious restaurant.",
+    "decoyQuestion": "Name an action involving squinting or utilizing the flashlight function on a smartphone."
+  },
+  {
+    "trueQuestion": "Name a profession where workers are clearly hiding secrets from the general public.",
+    "decoyQuestion": "Name a field in government logistics, banking, or medical research."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to find inside your mouth when chewing a piece of soft bread?",
+    "decoyQuestion": "Name a hard, crunchy, or metallic element that shouldn't be there."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to stop yourself from bursting out laughing at a funeral.",
+    "decoyQuestion": "Name a pain-inducing distraction trick or an expression where you cover your face entirely."
+  },
+  {
+    "trueQuestion": "Name a vehicle type that screams 'I am going through a massive midlife crisis.'",
+    "decoyQuestion": "Name a fast, loud, or highly impractical high-end automotive option."
+  },
+  {
+    "trueQuestion": "What is the worst thing to see when you turn around to look at the backseat of your car while driving alone at night?",
+    "decoyQuestion": "Name a human silhouette, two glowing eyes, or an object that shouldn't move."
+  },
+  {
+    "trueQuestion": "Name something you do when you are desperately trying to get a stubborn piece of food out from between your teeth.",
+    "decoyQuestion": "Name an unappealing oral manipulation or use of sharp object alternatives."
+  },
+  {
+    "trueQuestion": "Name a food item that is universally loved by almost everyone but you absolutely detest.",
+    "decoyQuestion": "Name a popular condiment, fruit, or texture-heavy main dish component."
+  },
+  {
+    "trueQuestion": "What is the absolute worst text message notification to wake up to at 3:00 AM?",
+    "decoyQuestion": "Name an alert indicating financial damage, family emergencies, or work system errors."
+  },
+  {
+    "trueQuestion": "Name something you do when you realize you just sent an incredibly embarrassing text message to the completely wrong person.",
+    "decoyQuestion": "Name a state of shock action like turning off your internet access or throwing your phone."
+  },
+  {
+    "trueQuestion": "Name an animal that looks like it was custom-designed by a committee of absolute lunatics.",
+    "decoyQuestion": "Name a mammal with mismatched limbs, pouches, or duck bills."
+  },
+  {
+    "trueQuestion": "What is the worst thing to feel crawling up the interior leg of your pants?",
+    "decoyQuestion": "Name a multi-legged insect, spider, or cold fluid trickling down."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk into a store, realize everything is too expensive, and want to leave without looking suspicious.",
+    "decoyQuestion": "Name a fake performance action where you examine one item, look at your watch, and exit."
+  },
+  {
+    "trueQuestion": "Name a flavor of soda that sounds completely unnatural and should never be bottled.",
+    "decoyQuestion": "Name a savory vegetable, meat flavor profile, or warm spice profile."
+  },
+  {
+    "trueQuestion": "What is the worst possible song to hear playing when you board an elevator that suddenly jams?",
+    "decoyQuestion": "Name a looping generic jazz track or a song explicitly about falling down/trapped."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally step on your dog or cat's tail in the dark.",
+    "decoyQuestion": "Name a high-pitched verbal apology performance accompanied by immediate petting."
+  },
+  {
+    "trueQuestion": "Name a specific household object that you are convinced is haunted by an evil spirit.",
+    "decoyQuestion": "Name an antique mirror, an old porcelain doll, or a weirdly framed portrait."
+  },
+  {
+    "trueQuestion": "What is the worst thing to discover inside a hotel room bed right as you check in?",
+    "decoyQuestion": "Name a human hair collection, weird damp stains, or tiny crawling bugs."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to open a plastic produce bag at a grocery store and it won't open.",
+    "decoyQuestion": "Name an action involving licking your fingertips or aggressively rubbing the plastic together."
+  },
+  {
+    "trueQuestion": "Name a job where you get to yell at adults all day and get paid handsomely for it.",
+    "decoyQuestion": "Name a high-stress occupation in corporate coaching, athletic training, or military drilling."
+  },
+  {
+    "trueQuestion": "What is the worst thing to lose down the dark crevice between your car console and front seat?",
+    "decoyQuestion": "Name a critical thin plastic card, loose change, or an expensive phone accessory."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to remember a person's name who is currently talking directly to you.",
+    "decoyQuestion": "Name a tactical conversation delay trick or scanning their social media on your phone."
+  },
+  {
+    "trueQuestion": "Name a food item that smells completely vile when cooked in an office breakroom microwave.",
+    "decoyQuestion": "Name a seafood item, leftover broccoli, or heavily pungent fermented dish."
+  },
+  {
+    "trueQuestion": "What is the worst possible physical sensation during a standard dental cleaning?",
+    "decoyQuestion": "Name a high-pitched scraping noise or metal hitting a sensitive nerve point."
+  },
+  {
+    "trueQuestion": "Name something you do when you are attempting to look casual while carrying a massive, incredibly heavy cardboard box.",
+    "decoyQuestion": "Name a strain-concealing facial grin or locking your arms tightly underneath."
+  },
+  {
+    "trueQuestion": "Name an incredibly overrated tourist destination that is just a crowded trap for photos.",
+    "decoyQuestion": "Name a famous tower, ancient wall, or neon-lit city intersection."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to fall out of your nose during a massive business meeting?",
+    "decoyQuestion": "Name a solid, liquid, or highly visible respiratory element."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to figure out if food in the fridge is spoiled without eating it.",
+    "decoyQuestion": "Name a cautious sniffing action or examining the text stamped on the carton."
+  },
+  {
+    "trueQuestion": "Name a character archetype in horror movies that you know is going to die within the first ten minutes.",
+    "decoyQuestion": "Name a loud, arrogant, or hyper-athletic teenage trope figure."
+  },
+  {
+    "trueQuestion": "What is the absolute worst texture to ever feel against the bare skin of your palms?",
+    "decoyQuestion": "Name a dry chalky texture, wet slimy grime, or rough coarse scratching."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally use a terrible slang word in front of people younger than you.",
+    "decoyQuestion": "Name a physical cringe realization or quickly trying to convert the word into a joke."
+  },
+  {
+    "trueQuestion": "Name a specific object that instantly ruins the aesthetic of an otherwise beautifully decorated living room.",
+    "decoyQuestion": "Name a massive stained recliner chair, exposed wire bundles, or a tacky neon sign."
+  },
+  {
+    "trueQuestion": "What is the worst text notification to receive right as you show someone a video directly on your phone screen?",
+    "decoyQuestion": "Name an embarrassing personal chat preview or a highly specific private medical/financial alert."
+  },
+  {
+    "trueQuestion": "Name something you do when you enter a bathroom stall and realize the lock mechanism is completely broken.",
+    "decoyQuestion": "Name a physical counter-balance defensive brace using your foot or hand against the wood."
+  },
+  {
+    "trueQuestion": "Name a food that makes you look completely unhinged if you eat it with a fork and knife.",
+    "decoyQuestion": "Name a classic handheld fast food item or a raw uncut fruit fruit."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find inside a box of fresh donuts?",
+    "decoyQuestion": "Name a savory or flavorless filling substitute, or an unappealing insect."
+  },
+  {
+    "trueQuestion": "Name something you do when your wireless earbuds suddenly disconnect and your guilty-pleasure song blasts out loud.",
+    "decoyQuestion": "Name a frantic physical slapping motion on your phone screen to hit pause."
+  },
+  {
+    "trueQuestion": "Name a fictional monster that would be incredibly easy to defeat if humans just used basic common sense.",
+    "decoyQuestion": "Name a slow-moving creature or a monster that is weak to basic elemental items like water or light."
+  },
+  {
+    "trueQuestion": "What is the worst item to use as a replacement if you run completely out of toilet paper at home?",
+    "decoyQuestion": "Name a stiff cardboard scrap, a piece of fabric clothing, or slick glossy paper."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to open a jar lid that is completely stuck tight.",
+    "decoyQuestion": "Name an action involving utilizing rubber towels, running hot water, or groaning with force."
+  },
+  {
+    "trueQuestion": "Name an incredibly boring museum concept that sounds like absolute torture to walk through.",
+    "decoyQuestion": "Name an exhibition dedicated entirely to farming tools, old stamps, or dusty rugs."
+  },
+  {
+    "trueQuestion": "What is the worst possible phrase to hear whispered directly behind you while you are standing in a dark alley?",
+    "decoyQuestion": "Name a line indicating tracking intentions, holding weapons, or recognizing your face."
+  },
+  {
+    "trueQuestion": "Name something you do when you realize you have a massive hole in the exact heel of your sock while visiting someone's house.",
+    "decoyQuestion": "Name a stealthy foot-curling concealment tactic or tucking your heels beneath your legs."
+  },
+  {
+    "trueQuestion": "Name a household task that feels entirely satisfying to finish but takes way too much mental energy to start.",
+    "decoyQuestion": "Name an organizational cleaning project involving closets, organizing documents, or defrosting deep freezers."
+  },
+  {
+    "trueQuestion": "What is the absolute worst shape for a steering wheel inside a modern sports car?",
+    "decoyQuestion": "Name an asymmetric polygon shape or a shape with sharp angles."
+  },
+  {
+    "trueQuestion": "Name something you do when you hear an incredibly bad joke told by an authoritative executive at your firm.",
+    "decoyQuestion": "Name an over-exaggerated fake structural laugh performance accompanied by nods."
+  },
+  {
+    "trueQuestion": "Name a specific animal that looks like it is permanently judging you with absolute disgust.",
+    "decoyQuestion": "Name an avian predator like an owl, an exotic cat breed, or a specific llama."
+  },
+  {
+    "trueQuestion": "What is the worst thing to have happen to your vision right as you drive onto a high-speed highway?",
+    "decoyQuestion": "Name a sudden structural optical distraction like a flying bug, glaring sun burst, or heavy steam."
+  },
+  {
+    "trueQuestion": "Name something you do when your phone battery drops down to exactly one percent and you are miles away from home.",
+    "decoyQuestion": "Name a series of rapid adjustments lowering display brightness, killing background applications, and panic sprinting."
+  },
+  {
+    "trueQuestion": "Name a specific vegetable that smells absolutely divine when roasted but tastes completely bitter to chew.",
+    "decoyQuestion": "Name a leafy dark vegetable, a brassica like brussels sprouts, or raw radishes."
+  },
+  {
+    "trueQuestion": "What is the worst possible sound to hear emitting from your computer's cooling fan system?",
+    "decoyQuestion": "Name a violent high-speed clicking, rattling metal scraping, or a low electric whine."
+  },
+  {
+    "trueQuestion": "Name something you do when you find out a major celebrity you absolutely loved has a terrible dark secret.",
+    "decoyQuestion": "Name a digital purging action like deleting their media library or unfollowing their fan platforms."
+  },
+  {
+    "trueQuestion": "Name a specific household item that people always buy way too many variations of for no practical reason.",
+    "decoyQuestion": "Name a decorative thermal mug, specialized kitchen storage containers, or small throw pillows."
+  },
+  {
+    "trueQuestion": "What is the worst type of liquid to accidentally spill on the fresh fabric upholstery of a new car seat?",
+    "decoyQuestion": "Name an organic sweet dairy fluid, dark colored stain oil, or highly pungent sauce."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk past a group of loud teenagers who suddenly burst out laughing.",
+    "decoyQuestion": "Name a paranoid self-inspection adjust routine checking your zipper, posture, or screen layout."
+  },
+  {
+    "trueQuestion": "Name a classic board game rule variation that everyone uses but is technically illegal according to the official rulebook.",
+    "decoyQuestion": "Name a rule variant involving pooling currency on specific board spaces or skipping penalties."
+  },
+  {
+    "trueQuestion": "What is the worst thing to pull out of a vending machine after paying full premium price?",
+    "decoyQuestion": "Name an item that is entirely expired, completely smashed into crumbs, or the wrong flavor profile."
+  },
+  {
+    "trueQuestion": "Name something you do when you enter an empty elevator and realize someone left a terrible lingering odor inside.",
+    "decoyQuestion": "Name a defensive breath-holding mask routine accompanied by scanning the display panels for emergency escape routes."
+  },
+  {
+    "trueQuestion": "Name a specific video game mechanic that is incredibly annoying and ruins the fun of playing.",
+    "decoyQuestion": "Name a restriction mechanic like stamina limits, weight inventory bars, or unskippable tutorial logs."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to discover floating inside a fresh carton of milk?",
+    "decoyQuestion": "Name a curdled solid chunk, a small drowned household insect, or a speck of dirt."
+  },
+  {
+    "trueQuestion": "Name something you do when a stranger sits directly next to you on a completely empty public transit train.",
+    "decoyQuestion": "Name a physical defensive pivot away accompanied by a deep sigh or putting on oversized headphones."
+  },
+  {
+    "trueQuestion": "Name a historical clothing trend that looked completely ridiculous and highly uncomfortable.",
+    "decoyQuestion": "Name an old European accessories style involving massive neck ruffs, structural wigs, or corsets."
+  },
+  {
+    "trueQuestion": "What is the worst thing to realize you left inside your car window on an incredibly hot 100-degree summer day?",
+    "decoyQuestion": "Name a soft wax container, a highly pressurized aerosol can, or delicate chocolate treats."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to remember if you already applied deodorant this morning.",
+    "decoyQuestion": "Name a private awkward physical posture tilt involving lowering your nose directly into your clothing armpits."
+  },
+  {
+    "trueQuestion": "Name a professional athlete position that looks incredibly boring to play during a live game broadcast.",
+    "decoyQuestion": "Name a static defensive position like a baseball outfielder, football backup kicker, or soccer keeper."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to feel dripping onto the exact center of your head while sitting inside an old library?",
+    "decoyQuestion": "Name an unidentifiable yellow pipe condensation fluid, cold water leak, or ancient ceiling dust."
+  },
+  {
+    "trueQuestion": "Name something you do when you read a text message that makes you incredibly angry but you need to wait before replying.",
+    "decoyQuestion": "Name a physical venting action like tossing the smartphone face-down onto soft upholstery and exhaling intensely."
+  },
+  {
+    "trueQuestion": "Name a specific kitchen ingredient that is an absolute nightmare to clean up if you drop it on a wet floor.",
+    "decoyQuestion": "Name a fine powdery flour dust, raw egg whites, or high-viscosity sticky molasses syrup."
+  },
+  {
+    "trueQuestion": "What is the worst thing to see stuck to the bottom of your fresh slice of artisanal birthday cake?",
+    "decoyQuestion": "Name a small piece of packaging tape, a loose human hair line, or an unbaked raw layer."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally play a voice message out loud on full volume in a completely silent waiting room.",
+    "decoyQuestion": "Name a rapid physical panic button compression combined with turning the phone display directly against your torso."
+  },
+  {
+    "trueQuestion": "Name a specific movie role archetype that instantly ruins the dramatic tension of a high-stakes action film.",
+    "decoyQuestion": "Name an annoying comic-relief sidekick character, a tech specialist explain-device, or an annoying child figure."
+  },
+  {
+    "trueQuestion": "What is the absolute worst texture to experience inside your mouth while trying to chew a cooked seafood dish?",
+    "decoyQuestion": "Name a gritty sand texture particle, a rubbery overcooked bounce, or a sharp unexpected bone slice."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk out of a public bathroom and worry you have trailing toilet paper attached to your shoe.",
+    "decoyQuestion": "Name a stealth backward glance checking routine or dragging your heels firmly against rough concrete tiles."
+  },
+  {
+    "trueQuestion": "Name a specific piece of furniture that is designed entirely for utility but always looks incredibly ugly.",
+    "decoyQuestion": "Name a wire computer rolling desk, an ergonomic rolling office frame, or a plastic utility filing unit."
+  },
+  {
+    "trueQuestion": "What is the worst possible text message notification to receive right as you settle into an international flight seats?",
+    "decoyQuestion": "Name an alert indicating household utility plumbing disasters, flight connection failures, or banking security locks."
+  },
+  {
+    "trueQuestion": "Name something you do when you enter an retail shop, notice there are zero customers, and the sole clerk stares directly at you.",
+    "decoyQuestion": "Name an artificial item browse performance loop checking objects intently before backing out slowly."
+  },
+  {
+    "trueQuestion": "Name a specific fruit that has an incredible flavor profile but is an absolute engineering disaster to peel or open.",
+    "decoyQuestion": "Name a thick armor skinned fruit, a pomegranate seed mesh, or a massive spike-shelled durian."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find inside your pocket after running a full high-heat drying laundry machine cycle?",
+    "decoyQuestion": "Name a melted sticky plastic ink pen, a wad of premium shredded financial receipts, or gum wrappers."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to read small typography text on a screen without revealing you need reading glasses.",
+    "decoyQuestion": "Name a subtle backward leaning posture adjust or maximizing distance from your eyes using full arm extensions."
+  },
+  {
+    "trueQuestion": "Name a specific profession where operators utilize custom internal codes to discuss clients behind their backs.",
+    "decoyQuestion": "Name a hospitality worker field like high-end restaurant servers, flight attendants, or hotel desk staff."
+  },
+  {
+    "trueQuestion": "What is the worst possible substance to find floating inside your cold glass of morning tap water?",
+    "decoyQuestion": "Name a gritty mineral flake, a tiny white biological particle, or an oil film shimmer."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to stifle an explosive cough inside a crowded dramatic theater hall.",
+    "decoyQuestion": "Name an intense physical throat swallow suppression routine accompanied by burying your head into a jacket sleeve cloth."
+  },
+  {
+    "trueQuestion": "Name a specific automotive vehicle choice that immediately signals the driver has zero interest in vehicle safety.",
+    "decoyQuestion": "Name an old rusted modification project truck, a custom high-power racing motorcycle, or a tiny plastic compact frame."
+  },
+  {
+    "trueQuestion": "What is the worst thing to feel rolling around inside your pillowcase shell right as you turn off the lights to sleep?",
+    "decoyQuestion": "Name a hard crunching beetle insect, a loose forgotten metallic object, or a clump of organic debris."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to say right after someone confesses they love you?",
+    "decoyQuestion": "What is a common polite phrase you say when leaving a customer service counter?"
+  },
+  {
+    "trueQuestion": "Name something you should never, under any circumstances, throw at a wedding.",
+    "decoyQuestion": "Name a heavy or sharp object you would find inside a toolbox."
+  },
+  {
+    "trueQuestion": "What is the most embarrassing thing that could fall out of your bag in the middle of a high school class?",
+    "decoyQuestion": "Name an item you buy at a pharmacy for personal hygiene or medical care."
+  },
+  {
+    "trueQuestion": "What is a superpower that would make your everyday life slightly more convenient but is completely useless for fighting crime?",
+    "decoyQuestion": "Name a basic household appliance function or simple tech feature."
+  },
+  {
+    "trueQuestion": "Name an animal that would be incredibly terrifying if it suddenly grew human teeth.",
+    "decoyQuestion": "Name a common household pet or a small forest creature."
+  },
+  {
+    "trueQuestion": "What is something you do when you are desperately trying to fake being sick to get out of school or work?",
+    "decoyQuestion": "Name a physical symptom of an intense allergic reaction or stomach bug."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to hear your pilot say over the intercom right before takeoff?",
+    "decoyQuestion": "What is a sentence that implies you are about to experience a very long delay?"
+  },
+  {
+    "trueQuestion": "Name an object you would use to try and break out of a locked room if you were trapped.",
+    "decoyQuestion": "Name a heavy metal tool or object found in a garage."
+  },
+  {
+    "trueQuestion": "What is a food item that smells completely incredible but tastes like absolute cardboard?",
+    "decoyQuestion": "Name a dry grain, organic health food, or bakery ingredient."
+  },
+  {
+    "trueQuestion": "Name something you do only when you are 100% sure you are completely alone in your house.",
+    "decoyQuestion": "Name a weird physical habit involving stretching, dancing, or inspecting your body."
+  },
+  {
+    "trueQuestion": "What is the most useless piece of information you were forced to memorize in school?",
+    "decoyQuestion": "Name a historical date, mathematical formula, or scientific concept."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to find inside your pocket when you're looking for gum?",
+    "decoyQuestion": "Name a sticky, dirty, or completely useless piece of small trash."
+  },
+  {
+    "trueQuestion": "Name an activity that is considered completely normal during the day but becomes deeply terrifying if done at 3:00 AM.",
+    "decoyQuestion": "Name an outdoor chore or physical activity involving walking or digging."
+  },
+  {
+    "trueQuestion": "What is something people do on social media that instantly makes you want to block them?",
+    "decoyQuestion": "Name a type of photo people post when they are on an expensive vacation."
+  },
+  {
+    "trueQuestion": "What is the worst thing to find floating at the bottom of a bowl of soup at a restaurant?",
+    "decoyQuestion": "Name a small, hard object or an organic texture that shouldn't be in hot liquid."
+  },
+  {
+    "trueQuestion": "Name a profession that secretly requires you to be a completely evil person to succeed.",
+    "decoyQuestion": "Name a corporate corporate job involving law, collections, or high-pressure sales."
+  },
+  {
+    "trueQuestion": "What is something you do when you are trying to look incredibly rich at a high-end luxury store?",
+    "decoyQuestion": "Name a confident physical posture or a way you look at a salesperson."
+  },
+  {
+    "trueQuestion": "What is the absolute worst flavor combination for a basic toothpaste?",
+    "decoyQuestion": "Name a highly savory spice, pungent vegetable, or fast-food condiment."
+  },
+  {
+    "trueQuestion": "Name a fictional character who would be absolutely terrible at keeping a secret.",
+    "decoyQuestion": "Name a loud, chaotic cartoon character or a cinematic sidekick."
+  },
+  {
+    "trueQuestion": "What is something you should never bring with you to a public funeral?",
+    "decoyQuestion": "Name a brightly colored electronic device or a noisy party item."
+  },
+  {
+    "trueQuestion": "What is the most annoying thing a passenger can do while you are driving a car?",
+    "decoyQuestion": "Name an action that involves changing settings on the dashboard or windows."
+  },
+  {
+    "trueQuestion": "Name an object that becomes instantly suspicious if you buy it in massive quantities at 11:00 PM.",
+    "decoyQuestion": "Name a common household cleaning chemical or disposable plastic item."
+  },
+  {
+    "trueQuestion": "What is the worst possible name you could choose for a newborn baby?",
+    "decoyQuestion": "Name an old-fashioned, outdated name or an object found in nature."
+  },
+  {
+    "trueQuestion": "Name something you do to quickly convince someone that you are not looking at their phone screen.",
+    "decoyQuestion": "Name a rapid eye movement or a way you adjust your sitting posture."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing that could happen to you while you are giving a high-stakes presentation?",
+    "decoyQuestion": "Name a tech glitch involving a computer projector or a sudden vocal malfunction."
+  },
+  {
+    "trueQuestion": "Name a food item that looks exactly like it has already been eaten once before.",
+    "decoyQuestion": "Name a blended green soup, oatmeal porridge, or a messy stew."
+  },
+  {
+    "trueQuestion": "What is the most awkward thing to accidentally say to a total stranger who just waved at someone behind you?",
+    "decoyQuestion": "What is a generic greeting phrase or a physical gesture description?"
+  },
+  {
+    "trueQuestion": "Name an animal that looks like it is permanently exhausted and has completely given up on life.",
+    "decoyQuestion": "Name a slow-moving mammal or a heavy creature that sleeps all day."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to hear a surgeon say right before you drift off to sleep?",
+    "decoyQuestion": "What is a phrase that implies someone has misplaced their tools?"
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to hide a massive rip in the seat of your pants.",
+    "decoyQuestion": "Name a physical way you sit, stand, or tie a piece of clothing around your waist."
+  },
+  {
+    "trueQuestion": "What is the most annoying sound a piece of technology can make?",
+    "decoyQuestion": "Name a repetitive high-pitched alert or electronic buzzing noise."
+  },
+  {
+    "trueQuestion": "Name a job where you are constantly forced to smile even though you are dying inside.",
+    "decoyQuestion": "Name a profession in the hospitality, theme park, or food service industry."
+  },
+  {
+    "trueQuestion": "What is the worst thing to forget to bring into a dark, public movie theater stall?",
+    "decoyQuestion": "Name a basic paper cleaning product or personal tech accessory."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk past a mirror and think your hair looks absolutely terrible.",
+    "decoyQuestion": "Name a quick manual adjustment or head movement you make to flatten something."
+  },
+  {
+    "trueQuestion": "What is a food combo that should be considered a literal crime against humanity?",
+    "decoyQuestion": "Name a sweet dessert item combined with a salty or sour condiment."
+  },
+  {
+    "trueQuestion": "Name a specific household object that you are convinced has a mind of its own and actively hides from you.",
+    "decoyQuestion": "Name a small item you use every day like keys, remotes, or chargers."
+  },
+  {
+    "trueQuestion": "What is the worst text message to receive from your landlord on a Friday evening?",
+    "decoyQuestion": "What is an alert indicating a sudden financial charge or a building maintenance issue?"
+  },
+  {
+    "trueQuestion": "Name an animal that would look completely elegant if it wore a high-end tailored tuxedo.",
+    "decoyQuestion": "Name a tall, sleek bird or an aquatic mammal with sleek black fur."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find inside your mouth when you are halfway through eating a burger?",
+    "decoyQuestion": "Name a hard, sharp, or rubbery texture element that shouldn't be in meat."
+  },
+  {
+    "trueQuestion": "Name something you do to look casual when you are completely lost in a crowded city center.",
+    "decoyQuestion": "Name an action that involves looking at your smartphone screen while walking confidently."
+  },
+  {
+    "trueQuestion": "Name a brand name that instantly lets you know the product is going to break within a single week.",
+    "decoyQuestion": "Name an ultra-cheap online marketplace or generic budget brand."
+  },
+  {
+    "trueQuestion": "What is the worst possible song to have stuck in your head during a 3-hour university exam?",
+    "decoyQuestion": "Name a repetitive kids' TV show theme song or a viral social media melody."
+  },
+  {
+    "trueQuestion": "Name something you do when your computer freezes during an online call and you don't know if people can still see you.",
+    "decoyQuestion": "Name a stiff physical pose or a panic facial expression."
+  },
+  {
+    "trueQuestion": "What is the most painful minor domestic chore imaginable?",
+    "decoyQuestion": "Name a chore that involves dealing with hot grease, sharp glass, or extreme scrubbing."
+  },
+  {
+    "trueQuestion": "Name a creature from folklore that would be a total nightmare to have as a next-door neighbor.",
+    "decoyQuestion": "Name a creature that makes incredibly loud noises at night or changes shape."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to hear vibrating inside your luggage while you are waiting in a quiet security line?",
+    "decoyQuestion": "Name an electronic device or personal hygiene tool that runs on batteries."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally walk into an incredibly fancy restaurant and realize you cannot afford anything on the menu.",
+    "decoyQuestion": "Name a polite escape performance involving checking your watch or faking a text message."
+  },
+  {
+    "trueQuestion": "What is a food item that is completely ruined if it is served even slightly lukewarm?",
+    "decoyQuestion": "Name a seafood dish, a dairy product, or a frozen dessert item."
+  },
+  {
+    "trueQuestion": "What is the worst possible gift you can receive from your romantic partner for a major anniversary?",
+    "decoyQuestion": "Name a generic kitchen appliance or a boring cleaning tool."
+  },
+  {
+    "trueQuestion": "Name something you do when you step in something sticky on the sidewalk and need to get it off immediately.",
+    "decoyQuestion": "Name a physical action involving scraping your shoe against grass or concrete curbs."
+  },
+  {
+    "trueQuestion": "Name a specific career path that screams 'I have absolutely no idea what I am doing with my life.'",
+    "decoyQuestion": "Name a vague corporate title or a creative freelance job description."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to see when you open your eyes underwater in a public pool?",
+    "decoyQuestion": "Name a piece of floating debris or an organic substance that should not be in water."
+  },
+  {
+    "trueQuestion": "Name something you do when you want to leave an awkward social party without anyone noticing you are going.",
+    "decoyQuestion": "Name a stealthy physical movement toward an exit door while avoiding eye contact."
+  },
+  {
+    "trueQuestion": "Name an invention from the last 20 years that has completely ruined human attention spans.",
+    "decoyQuestion": "Name a popular social media app or a short-form video streaming platform."
+  },
+  {
+    "trueQuestion": "What is the absolute worst flavor of soda you can possibly imagine?",
+    "decoyQuestion": "Name a savory soup flavor, a bitter herb, or a salty condiment flavor."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to convince your friends that you definitely know how to cook a complex meal.",
+    "decoyQuestion": "Name an action involving tossing ingredients in a pan or using fancy spices loudly."
+  },
+  {
+    "trueQuestion": "Name a movie that was so incredibly bad that it actually made you angry that you spent money to watch it.",
+    "decoyQuestion": "Name a heavily criticized big-budget superhero movie or sci-fi sequel."
+  },
+  {
+    "trueQuestion": "What is the worst possible object to use as an emergency bookmark for a very expensive book?",
+    "decoyQuestion": "Name a sticky food item or a damp piece of small trash."
+  },
+  {
+    "trueQuestion": "Name something you do when you hear an incredibly loud crash in your kitchen at midnight but you are too afraid to go check.",
+    "decoyQuestion": "Name an action involving pulling blankets over your head or grabbing a heavy bedside item."
+  },
+  {
+    "trueQuestion": "Name a specific fashion trend that makes everyone look like they are wearing a literal costume from a bad sci-fi movie.",
+    "decoyQuestion": "Name a trendy clothing item made of shiny metallic plastic or giant oversized frames."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to realize you forgot to buy at the grocery store right after you finish unpacking all the bags?",
+    "decoyQuestion": "Name a crucial cooking ingredient or a daily dairy essential."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to look like you are deeply appreciating a completely terrible modern art painting.",
+    "decoyQuestion": "Name a physical posture involving tilting your head, crossing your arms, and humming."
+  },
+  {
+    "trueQuestion": "Name a specific job where employees are clearly just making up words to sound more intelligent than they actually are.",
+    "decoyQuestion": "Name a corporate tech job, marketing position, or financial consulting role."
+  },
+  {
+    "trueQuestion": "What is the worst thing to feel brushing against your leg while you are swimming in a murky natural lake?",
+    "decoyQuestion": "Name a long slimy plant string or a cold underwater creature."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to ignore the fact that your foot has completely fallen asleep and feels like pins and needles.",
+    "decoyQuestion": "Name a weird limping movement or stomping action you do to restore blood flow."
+  },
+  {
+    "trueQuestion": "Name a food item that is universally considered elite tier comfort food but actually makes you feel incredibly sick afterwards.",
+    "decoyQuestion": "Name a greasy fast-food item high in melted cheese or deep-fried dough."
+  },
+  {
+    "trueQuestion": "What is the worst text message notification to receive right as you are sitting down for a romantic dinner date?",
+    "decoyQuestion": "Name an alert indicating an emergency corporate work issue or a major financial charge."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally use a word that you don't actually know the definition of in a serious conversation.",
+    "decoyQuestion": "Name a quick verbal distraction technique or nodding your head confidently to move past it."
+  },
+  {
+    "trueQuestion": "Name an animal that looks like it was created purely to scare human beings out of going into the woods.",
+    "decoyQuestion": "Name a large arachnid, a predatory insect, or a nocturnal mammal with glowing eyes."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find crawling on the interior dashboard of your car while you are driving down a high-speed highway?",
+    "decoyQuestion": "Name a flying insect or a fast-crawling spider."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk into a public restroom stall and realize there is no toilet paper left anywhere.",
+    "decoyQuestion": "Name a frantic search look around your pockets or faking a text to ask for help."
+  },
+  {
+    "trueQuestion": "Name a flavor profile of potato chips that sounds completely unappealing but people still buy for some reason.",
+    "decoyQuestion": "Name a heavy seafood seasoning or a very strong sour/pungent vegetable flavor."
+  },
+  {
+    "trueQuestion": "What is the worst possible song to hear a live street performer blast out on an acoustic guitar at a park?",
+    "decoyQuestion": "Name an overplayed classic rock anthem or a deeply depressing acoustic track."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally step on your pet's paw and want to show them you are deeply sorry.",
+    "decoyQuestion": "Name an over-the-top verbal baby-voice performance combined with giving them treats."
+  },
+  {
+    "trueQuestion": "Name a specific household object that looks completely innocent but is a literal death trap if you are clumsy.",
+    "decoyQuestion": "Name an item with slick surfaces, glass edges, or a steep folding mechanism."
+  },
+  {
+    "trueQuestion": "What is the worst thing to discover inside a rental Airbnb apartment right as you unpack your bags for vacation?",
+    "decoyQuestion": "Name a hidden camera device, an old dirty stain, or a terrible bad smell."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to open a plastic grocery bag and your hands are completely dry.",
+    "decoyQuestion": "Name an action involving breathing hot air onto your fingertips or blowing on the plastic edges."
+  },
+  {
+    "trueQuestion": "Name a career path where you get to spend the entire day judging other people's life choices and lifestyle habits.",
+    "decoyQuestion": "Name a profession in social media auditing, relationship therapy, or financial coaching."
+  },
+  {
+    "trueQuestion": "What is the worst thing to drop directly into the dark space between your car seats where your hand cannot fit?",
+    "decoyQuestion": "Name a slim electronic item, a critical piece of plastic identification, or loose cash."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to remember the face of a person who is currently waving directly at you.",
+    "decoyQuestion": "Name an awkward squinting look combined with a slow, uncertain wave back."
+  },
+  {
+    "trueQuestion": "Name a food item that makes the entire office breakroom smell completely disgusting when cooked in a microwave.",
+    "decoyQuestion": "Name a leftover fish dish, pungent broccoli, or a heavy garlic sauce."
+  },
+  {
+    "trueQuestion": "What is the worst possible physical sensation you can experience during a standard dental checkup?",
+    "decoyQuestion": "Name a sharp metal tool scraping sound or high-pressure cold air hitting a tooth."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to lift a massive, heavy box but want to make it look like it weighs absolutely nothing.",
+    "decoyQuestion": "Name a tensed physical breath hold combined with forcing a smile on your face."
+  },
+  {
+    "trueQuestion": "Name an incredibly overrated vacation spot that is just a crowded tourist trap designed for instagram photos.",
+    "decoyQuestion": "Name a famous historic tower, a crowded island beach, or a neon city square."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to see fall out of your nose during a serious face-to-face job interview?",
+    "decoyQuestion": "Name a highly visible respiratory fluid or a dry green particle."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to check if the milk inside the carton has spoiled without tasting it.",
+    "decoyQuestion": "Name a cautious sniffing action or checking the numeric date stamped on the side."
+  },
+  {
+    "trueQuestion": "Name a character archetype in classic horror films that you know is going to get eliminated within the first ten minutes.",
+    "decoyQuestion": "Name an arrogant jock character or an overly adventurous teenage stereotype."
+  },
+  {
+    "trueQuestion": "What is the worst texture to ever feel against the palms of your hands when you are reaching into a dark closet?",
+    "decoyQuestion": "Name a wet slimy coating, a thick dusty cobweb, or a sticky unknown substance."
+  },
+  {
+    "trueQuestion": "Name something you do when you realize you just used an incredibly outdated slang word in front of cool young people.",
+    "decoyQuestion": "Name a sudden physical freeze up followed by trying to laugh it off nervously."
+  },
+  {
+    "trueQuestion": "Name a specific item that completely ruins the visual look of an otherwise beautifully decorated living room space.",
+    "decoyQuestion": "Name a giant old recliner chair, a bundle of messy black power cords, or a tacky sign."
+  },
+  {
+    "trueQuestion": "What is the worst text message notification to pop up on your screen while you are showing a funny video to your parents?",
+    "decoyQuestion": "Name an embarrassing private chat preview or a highly specific medical/financial alert."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk into a public bathroom stall and notice the door lock is completely broken.",
+    "decoyQuestion": "Name a defensive physical brace using your foot or hand to keep the door shut tight."
+  },
+  {
+    "trueQuestion": "Name a food item that makes you look completely insane if you eat it using a fork and a knife.",
+    "decoyQuestion": "Name a classic handheld fast-food item or a raw, uncut fruit."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find inside a box of fresh, gourmet breakfast donuts?",
+    "decoyQuestion": "Name a savory substitution filling or an unappealing bug element."
+  },
+  {
+    "trueQuestion": "Name something you do when your wireless headphones disconnect and your embarrassing music plays out loud in a library.",
+    "decoyQuestion": "Name a frantic physical slamming motion on your phone screen to hit the pause icon."
+  },
+  {
+    "trueQuestion": "Name a fictional movie monster that would be incredibly easy to defeat if humans used basic scientific common sense.",
+    "decoyQuestion": "Name a slow-moving creature or a monster vulnerable to basic elements like water or light."
+  },
+  {
+    "trueQuestion": "What is the worst possible replacement item to use if you run completely out of toilet paper at a friend's house?",
+    "decoyQuestion": "Name a stiff piece of cardboard, a fabric clothing accessory, or slick glossy paper."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to open a metal jar lid that is completely stuck frozen shut.",
+    "decoyQuestion": "Name an action involving running hot water over the metal or tapping it with a knife."
+  },
+  {
+    "trueQuestion": "Name an incredibly boring museum concept that sounds like absolute mental torture to walk through for two hours.",
+    "decoyQuestion": "Name an exhibit dedicated entirely to old farm machinery, plain textiles, or dusty rocks."
+  },
+  {
+    "trueQuestion": "What is the worst phrase to hear whispered directly behind your ear while you are walking alone down a dark city street?",
+    "decoyQuestion": "Name a line indicating tracking intentions or claiming to recognize your face from somewhere."
+  },
+  {
+    "trueQuestion": "Name something you do when you notice you have a massive hole in the heel of your sock while visiting someone's house.",
+    "decoyQuestion": "Name a stealthy foot-curling movement or tucking your feet completely under a couch."
+  },
+  {
+    "trueQuestion": "Name a household task that feels incredibly satisfying to complete but takes way too much mental effort to start.",
+    "decoyQuestion": "Name an organizational project involving messy closets, sorting old paperwork, or cleaning a garage."
+  },
+  {
+    "trueQuestion": "What is the worst possible shape for a steering wheel inside a modern high-performance sports car?",
+    "decoyQuestion": "Name an asymmetric polygon shape or a shape featuring sharp interior angles."
+  },
+  {
+    "trueQuestion": "Name something you do when you hear an incredibly unfunny joke told by the highest executive at your company.",
+    "decoyQuestion": "Name a forced, over-exaggerated fake laugh performance accompanied by intense head nodding."
+  },
+  {
+    "trueQuestion": "Name a specific animal that looks like it is permanently evaluating your entire life choice with absolute condescension.",
+    "decoyQuestion": "Name a sharp-eyed bird like an eagle, a grumpy owl, or a specific camel breed."
+  },
+  {
+    "trueQuestion": "What is the worst thing to have happen to your vision right as you merge onto a high-speed highway?",
+    "decoyQuestion": "Name a sudden optical distraction like a flying bug hitting your windshield or a bright sun flash."
+  },
+  {
+    "trueQuestion": "Name something you do when your phone battery drops to exactly 1% and you are miles away from your house.",
+    "decoyQuestion": "Name a series of rapid adjustments lowering screen brightness and shutting down applications."
+  },
+  {
+    "trueQuestion": "Name a specific vegetable that smells amazing when roasted but tastes completely bitter when you actually bite it.",
+    "decoyQuestion": "Name a dark leafy green vegetable, a bitter gourd, or raw radishes."
+  },
+  {
+    "trueQuestion": "What is the worst possible sound to hear emitting from your laptop's cooling fan system?",
+    "decoyQuestion": "Name a violent high-speed clicking noise or a loud electric grinding sound."
+  },
+  {
+    "trueQuestion": "Name something you do when you discover a major celebrity you love has been revealed as a terrible person.",
+    "decoyQuestion": "Name a digital purging action like unfollowing their pages or deleting their music files."
+  },
+  {
+    "trueQuestion": "Name a specific household item that people always buy way too many variations of for absolutely no reason.",
+    "decoyQuestion": "Name a insulated travel mug, decorative glass jars, or small throw pillows."
+  },
+  {
+    "trueQuestion": "What is the worst type of liquid to accidentally spill on the fresh fabric seats of a brand new car?",
+    "decoyQuestion": "Name a sweet organic dairy product, a dark staining juice, or a pungent oil sauce."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk past a group of teenagers who suddenly burst out laughing for no reason.",
+    "decoyQuestion": "Name a paranoid self-inspection check checking your pants zipper or checking your face layout."
+  },
+  {
+    "trueQuestion": "Name a classic board game rule variation that everyone plays with but is technically completely illegal in the rulebook.",
+    "decoyQuestion": "Name a rule variant involving pooling cash on specific spaces or giving extra turns."
+  },
+  {
+    "trueQuestion": "What is the worst thing to pull out of a vending machine after paying full price for a snack?",
+    "decoyQuestion": "Name an item that is completely crushed into dust or the wrong item entirely."
+  },
+  {
+    "trueQuestion": "Name something you do when you enter an empty elevator and realize someone left a terrible smell inside it.",
+    "decoyQuestion": "Name a dramatic breath-holding performance while staring intently at the floor numbers."
+  },
+  {
+    "trueQuestion": "Name a specific video game mechanic that is incredibly annoying and completely ruins the fun of playing.",
+    "decoyQuestion": "Name a restriction mechanic like limited stamina bars, inventory weight limits, or unskippable cutscenes."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to discover floating inside a fresh carton of orange juice?",
+    "decoyQuestion": "Name a solid curdled mold chunk or a small drowned fruit fly insect."
+  },
+  {
+    "trueQuestion": "Name something you do when a complete stranger sits directly next to you on a completely empty public bus.",
+    "decoyQuestion": "Name a physical pivot away accompanied by a deep sigh or putting on oversized headphones."
+  },
+  {
+    "trueQuestion": "Name a historical fashion trend that looked completely ridiculous and highly uncomfortable to move around in.",
+    "decoyQuestion": "Name an old historic style involving massive structural neck ruffs or heavy powdered wigs."
+  },
+  {
+    "trueQuestion": "What is the worst thing to realize you left inside your car dashboard on an incredibly hot 100-degree summer day?",
+    "decoyQuestion": "Name a soft wax container, a highly pressurized metal can, or delicate chocolate sweets."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to secretly check if you forgot to apply deodorant this morning.",
+    "decoyQuestion": "Name a private physical posture tilt involving lowering your nose directly into your shirt collar armpit."
+  },
+  {
+    "trueQuestion": "Name a professional sports position that looks incredibly boring to play during a live match broadcast.",
+    "decoyQuestion": "Name a static defensive position like a baseball outfielder or a soccer goalkeeper."
+  },
+  {
+    "trueQuestion": "What is the worst possible thing to feel dripping onto your head while sitting inside an ancient historic building?",
+    "decoyQuestion": "Name an unidentifiable yellow pipe fluid leak or ancient dusty ceiling water."
+  },
+  {
+    "trueQuestion": "Name something you do when you read a text message that makes you furious but you have to wait before replying.",
+    "decoyQuestion": "Name a physical venting action like tossing your phone onto a bed and sighing intensely."
+  },
+  {
+    "trueQuestion": "Name a specific kitchen ingredient that is an absolute nightmare to clean up if you drop it on a wet floor tile.",
+    "decoyQuestion": "Name a fine powdery flour dust, raw sticky egg whites, or high-viscosity maple syrup."
+  },
+  {
+    "trueQuestion": "What is the worst thing to see stuck to the bottom of your slice of fresh birthday cake?",
+    "decoyQuestion": "Name a small piece of plastic packaging tape or a loose human hair line."
+  },
+  {
+    "trueQuestion": "Name something you do when you accidentally play a voice note out loud on maximum volume in a quiet waiting room.",
+    "decoyQuestion": "Name a rapid physical panic button compression combined with turning the display against your chest."
+  },
+  {
+    "trueQuestion": "Name a specific movie role archetype that instantly ruins the dramatic stakes of an intense thriller film.",
+    "decoyQuestion": "Name an annoying comic-relief sidekick character or a character who explains the plot out loud."
+  },
+  {
+    "trueQuestion": "What is the absolute worst texture to experience inside your mouth while trying to chew a cooked seafood meal?",
+    "decoyQuestion": "Name a gritty sand particle texture, a rubbery overcooked bounce, or a sharp bone piece."
+  },
+  {
+    "trueQuestion": "Name something you do when you walk out of a public bathroom and worry you have trailing toilet paper on your shoe.",
+    "decoyQuestion": "Name a stealth backward glance checking routine or dragging your foot hard against the carpet."
+  },
+  {
+    "trueQuestion": "Name a specific piece of furniture that is designed entirely for utility but always looks incredibly ugly in a home.",
+    "decoyQuestion": "Name a rolling plastic file unit, a wire mesh computer desk, or an ergonomic back brace frame."
+  },
+  {
+    "trueQuestion": "What is the worst possible text message notification to receive right as your plane starts pulling onto the runway?",
+    "decoyQuestion": "Name an alert indicating household utility plumbing disasters or severe banking security lockouts."
+  },
+  {
+    "trueQuestion": "Name something you do when you enter an retail shop, notice there are zero customers, and the clerk stares directly at you.",
+    "decoyQuestion": "Name an artificial item browse performance checking random objects before walking out slowly."
+  },
+  {
+    "trueQuestion": "Name a specific fruit that has an amazing flavor profile but is an absolute engineering disaster to open up.",
+    "decoyQuestion": "Name a thick armored skinned fruit, a pomegranate seed mesh, or a massive spiked durian."
+  },
+  {
+    "trueQuestion": "What is the absolute worst thing to find inside your pocket after running a full laundry drying cycle?",
+    "decoyQuestion": "Name a melted sticky plastic ink pen or a wad of shredded paper receipts."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to read tiny text on a screen without letting people know your eyes are bad.",
+    "decoyQuestion": "Name a subtle backward leaning adjustment or moving your phone further away using your arm."
+  },
+  {
+    "trueQuestion": "Name a specific profession where workers use custom code words to mock clients right in front of their faces.",
+    "decoyQuestion": "Name a hospitality field like high-end restaurant servers, flight attendants, or luxury hotel staff."
+  },
+  {
+    "trueQuestion": "What is the worst possible substance to find floating inside your glass of ice cold water?",
+    "decoyQuestion": "Name a gritty mineral flake, a tiny white biological particle, or a thin oil film."
+  },
+  {
+    "trueQuestion": "Name something you do when you are trying to suppress an explosive cough inside a completely silent church service.",
+    "decoyQuestion": "Name an intense throat swallow suppression routine accompanied by burying your face in your arms."
+  },
+  {
+    "trueQuestion": "Name a specific automotive vehicle choice that immediately signals the driver has absolutely zero fear of dying.",
+    "decoyQuestion": "Name an old rusted custom modifications truck or a high-power racing motorcycle."
+  },
+  {
+    "trueQuestion": "What is the worst thing to feel rolling around inside your pillowcase right as you turn off the lights to go to sleep?",
+    "decoyQuestion": "Name a hard crunching beetle insect or a loose forgotten metallic item."
   }
 ]
